@@ -1,0 +1,654 @@
+[
+  {
+    "id": "so_e1_01",
+    "lang": "so",
+    "level": 1,
+    "question": "Alifbeetada af-Soomaaliga, xarafkee baa ugu horreeya?",
+    "options": [
+      "A",
+      "B",
+      "Y"
+    ],
+    "answerIndex": 1,
+    "explanation": "Af-Soomaaligu wuxuu ku bilaabmaa B T J X, ee kuma bilaabmo A. Shaqallada A E I O U waxay ku jiraan dhammaadka."
+  },
+  {
+    "id": "so_e1_02",
+    "lang": "so",
+    "level": 1,
+    "question": "Immisa shaqal ayuu af-Soomaaligu leeyahay?",
+    "options": [
+      "Shan: A E I O U",
+      "Saddex: A I U",
+      "Toban shaqal"
+    ],
+    "answerIndex": 0,
+    "explanation": "Shan shaqal oo keliya ayaa jira: A E I O U. Sidaas darteed af-Soomaaligu wuu u fudud yahay in la akhriyo."
+  },
+  {
+    "id": "so_e1_03",
+    "lang": "so",
+    "level": 1,
+    "question": "Qof wuxuu kugu yidhi: Assalaamu calaykum. Maxaad ku jawaabaysaa?",
+    "options": [
+      "Sheeko xariir",
+      "Wa calaykum salaam",
+      "Mahadsanid"
+    ],
+    "answerIndex": 1,
+    "explanation": "Salaanta waxaa lagu jawaabaa Wa calaykum salaam. Sheeko xariir waa jawaabta sheekada oo keliya."
+  },
+  {
+    "id": "so_e1_04",
+    "lang": "so",
+    "level": 1,
+    "question": "Sheekaystuhu wuxuu yidhi: Sheeko sheeko! Maxaad tidhaahdaa?",
+    "options": [
+      "Sheeko xariir!",
+      "Nabadgelyo",
+      "Iska warran"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sheekadu ma bilaabmayso ilaa carruurtu ku jawaabaan Sheeko xariir. Adiga ayaa qayb ka ah sheekada."
+  },
+  {
+    "id": "so_e1_05",
+    "lang": "so",
+    "level": 1,
+    "question": "Isku dar codadka: d + a + b. Eraygee baa dhasha?",
+    "options": [
+      "bad",
+      "dib",
+      "dab"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bilowgu waa d, dhammaadkuna waa b: dab. Bad waxay ku bilaabantaa b."
+  },
+  {
+    "id": "so_e1_06",
+    "lang": "so",
+    "level": 1,
+    "question": "Isku dar codadka: n + i + n. Eraygee baa dhasha?",
+    "options": [
+      "nin",
+      "mid",
+      "nabad"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nin wuxuu ku bilaabmaa n wuxuuna ku dhammaadaa n. Waxaad dhagaysatay bilowga iyo dhammaadka."
+  },
+  {
+    "id": "so_e1_07",
+    "lang": "so",
+    "level": 1,
+    "question": "Sidee loo qoraa erayga macnihiisu yahay tan i dhashay?",
+    "options": [
+      "hoyo",
+      "hooyo",
+      "huyo"
+    ],
+    "answerIndex": 1,
+    "explanation": "Shaqalku waa dheer yahay, sidaas darteed laba jeer ayaa la qoraa: hooyo. Hal o kuma filna."
+  },
+  {
+    "id": "so_e1_08",
+    "lang": "so",
+    "level": 1,
+    "question": "Waxa dhexda lagu xidho — kee baa magaciisa?",
+    "options": [
+      "san",
+      "sun",
+      "suun"
+    ],
+    "answerIndex": 2,
+    "explanation": "Suun wuxuu leeyahay shaqal dheer: uu. Sun (shaqal gaaban) waa wax khatar ah — shaqalka dheer ayaa macnaha beddela."
+  },
+  {
+    "id": "so_e1_09",
+    "lang": "so",
+    "level": 1,
+    "question": "Xarafka SH — immisa cod buu leeyahay?",
+    "options": [
+      "Hal cod oo keliya",
+      "Laba cod",
+      "Saddex cod"
+    ],
+    "answerIndex": 0,
+    "explanation": "SH, DH iyo KH mid kastaa waa hal xaraf oo hal cod leh. Laba calaamo ayaa la qoraa, laakiin weligaa lama kala jaro."
+  },
+  {
+    "id": "so_e1_10",
+    "lang": "so",
+    "level": 1,
+    "question": "Ciidda aan ku dul socono — kee baa magaceeda?",
+    "options": [
+      "dul",
+      "dhul",
+      "dal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dhul wuxuu ku bilaabmaa codka dh, carrabka oo gadaal u laaban. Dul waa korka shayga — cod kale oo gebi ahaanba duwan."
+  },
+  {
+    "id": "so_e1_11",
+    "lang": "so",
+    "level": 1,
+    "question": "Tirada faraha labada gacmood — kee baa magaceeda?",
+    "options": [
+      "laba",
+      "shan",
+      "toban"
+    ],
+    "answerIndex": 2,
+    "explanation": "Toban waa 10, tirada faraha labada gacmood. Shan waa faraha hal gacan."
+  },
+  {
+    "id": "so_e1_12",
+    "lang": "so",
+    "level": 1,
+    "question": "Hasha caanaha leh ee geela — kee baa magaceeda?",
+    "options": [
+      "hal",
+      "dal",
+      "kab"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hal waa hasha geela ee caanaha leh. Dal waa dhulka aad ka timid, kabna waa waxa cagta la gashado."
+  },
+  {
+    "id": "so_e1_13",
+    "lang": "so",
+    "level": 1,
+    "question": "Marka buug la yidhaahdo buugga, maxaa xarafka g ku dhacay?",
+    "options": [
+      "Waa la tirtiray",
+      "Waa la dheereeyay — laba jeer ayaa la qoraa",
+      "Waxaa lagu beddelay k"
+    ],
+    "answerIndex": 1,
+    "explanation": "Shibbane labanlaaban waa mid la dheereeyo, sida shaqalka dheer: buug + ga = buugga."
+  },
+  {
+    "id": "so_e1_14",
+    "lang": "so",
+    "level": 1,
+    "question": "Kee ka mid ah kuwan waa shaqal?",
+    "options": [
+      "D",
+      "B",
+      "A"
+    ],
+    "answerIndex": 2,
+    "explanation": "Shaqallada waa A E I O U. B iyo D waa shibbane — kuma shaqeeyaan iyaga oo keliya, waxay u baahan yihiin shaqal."
+  },
+  {
+    "id": "so_e1_15",
+    "lang": "so",
+    "level": 1,
+    "question": "Sidee loo qoraa erayga macnihiisu yahay ninka ku dhalay?",
+    "options": [
+      "aabo",
+      "abo",
+      "obo"
+    ],
+    "answerIndex": 0,
+    "explanation": "Shaqalku waa dheer yahay, sidaas darteed laba a ayaa la qoraa: aabo. Aabbe sidoo kale waa sax, laba b ayuuna leeyahay."
+  },
+  {
+    "id": "so_e1_16",
+    "lang": "so",
+    "level": 1,
+    "question": "Cabbitaanka cad ee xoolaha laga lisho — kee baa magaciisa?",
+    "options": [
+      "caws",
+      "caano",
+      "cano"
+    ],
+    "answerIndex": 1,
+    "explanation": "Caano wuxuu leeyahay shaqal dheer: aa. Caws waa doogga xooluhu daaqaan."
+  },
+  {
+    "id": "so_e1_17",
+    "lang": "so",
+    "level": 1,
+    "question": "Waxa wax lagu qoro — kee baa magaciisa?",
+    "options": [
+      "qalin",
+      "qof",
+      "kab"
+    ],
+    "answerIndex": 0,
+    "explanation": "Qalin wuxuu ku bilaabmaa codka q, oo dabada afka ka soo baxa. Qof waa hal aadane."
+  },
+  {
+    "id": "so_e1_18",
+    "lang": "so",
+    "level": 1,
+    "question": "Erayada su'aal iyo gu' — maxay calaamadda (') tahay?",
+    "options": [
+      "Waa shaqal dheer",
+      "Waa hakadka, shibbanaha 22-aad",
+      "Waa calaamad aan cod lahayn"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hakadku waa shibbane dhab ah oo neefta wax yar joojiya. Haddii aad ka tagto, erayada su'aal iyo gu' way jabaan."
+  },
+  {
+    "id": "so_e1_19",
+    "lang": "so",
+    "level": 1,
+    "question": "Geela, adhiga iyo lo'da — kee baa magacooda guud?",
+    "options": [
+      "xariir",
+      "dhar",
+      "xoolo"
+    ],
+    "answerIndex": 2,
+    "explanation": "Xoolo waa magaca guud ee neefafka. Xariir waa maro jilicsan, dharna waa waxa la xidho."
+  },
+  {
+    "id": "so_e1_20",
+    "lang": "so",
+    "level": 1,
+    "question": "Kee ka mid ah kuwan waa hal xaraf oo laba calaamo lagu qoro?",
+    "options": [
+      "DH",
+      "B",
+      "A"
+    ],
+    "answerIndex": 0,
+    "explanation": "SH, DH iyo KH mid kastaa waa hal xaraf oo hal cod leh. B waa hal calaamo, A waa shaqal."
+  },
+  {
+    "id": "so_e2_01",
+    "lang": "so",
+    "level": 2,
+    "question": "Weedh kastaa maxay ku dhammaataa?",
+    "options": [
+      "Hakad (,)",
+      "Dhibic (.)",
+      "Calaamadda su'aasha (?)",
+      "Waxba"
+    ],
+    "answerIndex": 1,
+    "explanation": "Weedh caadi ah waxay ku dhammaataa dhibic (.), taas oo akhristaha u sheegaysa in fikraddu dhammaatay."
+  },
+  {
+    "id": "so_e2_02",
+    "lang": "so",
+    "level": 2,
+    "question": "Magaca naag — muxuu qaataa marka la yidhaahdo tan gaarka ah?",
+    "options": [
+      "naagta",
+      "naagka",
+      "naagga",
+      "naagaha"
+    ],
+    "answerIndex": 0,
+    "explanation": "Naag waa dheddig, sidaas darteed waxay qaadataa -ta: naagta. Magaca lab wuxuu qaataa -ka: ninka."
+  },
+  {
+    "id": "so_e2_03",
+    "lang": "so",
+    "level": 2,
+    "question": "Buug + ka = ?",
+    "options": [
+      "buugka",
+      "buugaha",
+      "buugga",
+      "buugta"
+    ],
+    "answerIndex": 2,
+    "explanation": "Marka magacu ku dhammaado g, waxaa dhasha laba g: buugga. Xarafka waa la dheereeyaa."
+  },
+  {
+    "id": "so_e2_04",
+    "lang": "so",
+    "level": 2,
+    "question": "Il + ta = ?",
+    "options": [
+      "ilta",
+      "ilka",
+      "ilaha",
+      "isha"
+    ],
+    "answerIndex": 3,
+    "explanation": "Il waa dheddig, l iyo t-duna waxay noqdaan sh: isha. Sidoo kale hal → hasha."
+  },
+  {
+    "id": "so_e2_05",
+    "lang": "so",
+    "level": 2,
+    "question": "Waa maxay jamaca erayga wiil?",
+    "options": [
+      "wiilo",
+      "wiilal",
+      "wiilyo",
+      "wiilag"
+    ],
+    "answerIndex": 1,
+    "explanation": "Jamaca wiil waa wiilal. Jamaca af-Soomaaliga waxaa lagu bartaa lammaane ahaan: wiil–wiilal, gabadh–gabdho."
+  },
+  {
+    "id": "so_e2_06",
+    "lang": "so",
+    "level": 2,
+    "question": "Waa maxay jamaca erayga il?",
+    "options": [
+      "ilal",
+      "ilo",
+      "indho",
+      "ilko"
+    ],
+    "answerIndex": 2,
+    "explanation": "Il → indho. Waa mid ka mid ah dhowr eray oo jamacoodu gebi ahaanba ka duwan yahay kaliga."
+  },
+  {
+    "id": "so_e2_07",
+    "lang": "so",
+    "level": 2,
+    "question": "Hooyadaa walaasheed — maxaa la yidhaahdaa?",
+    "options": [
+      "eeddo",
+      "habaryar",
+      "adeer",
+      "abti"
+    ],
+    "answerIndex": 1,
+    "explanation": "Habaryar waa walaasha hooyada. Eeddo waa walaasha aabbaha, adeerna waa walaalka aabbaha."
+  },
+  {
+    "id": "so_e2_08",
+    "lang": "so",
+    "level": 2,
+    "question": "Sidee baad u sheegaysaa buugga aad adigu leedahay?",
+    "options": [
+      "buuggayga",
+      "buuggaaga",
+      "buugga",
+      "buuggeeda"
+    ],
+    "answerIndex": 1,
+    "explanation": "-aaga macnihiisu waa adiga; -ayga macnihiisu waa aniga. Sidaas darteed buuggaaga waa buugga adiga leh."
+  },
+  {
+    "id": "so_e2_09",
+    "lang": "so",
+    "level": 2,
+    "question": "Sidee loo yidhaahdaa 16 af-Soomaali?",
+    "options": [
+      "toban iyo lix",
+      "lixdan",
+      "lix iyo toban",
+      "lix toban"
+    ],
+    "answerIndex": 2,
+    "explanation": "Qaabku waa tirada yar marka hore: lix iyo toban. Lixdan waa 60."
+  },
+  {
+    "id": "so_e2_10",
+    "lang": "so",
+    "level": 2,
+    "question": "Waa maxay 30 af-Soomaali?",
+    "options": [
+      "soddon",
+      "saddexdan",
+      "soddonaad",
+      "saddex iyo toban"
+    ],
+    "answerIndex": 0,
+    "explanation": "30 waa soddon. Waa mid ka mid ah labada tiro ee qaabka ka baxsan — tan kalena waa konton (50)."
+  },
+  {
+    "id": "so_e2_11",
+    "lang": "so",
+    "level": 2,
+    "question": "Berri waxaan ... buug.",
+    "options": [
+      "akhriyay",
+      "akhrinayaa",
+      "akhrisan doonaa",
+      "akhriyo"
+    ],
+    "answerIndex": 2,
+    "explanation": "Berri waa waqtiga soo socda, sidaas darteed waxaa loo baahan yahay erayga doonaa. Akhriyay waa shalay."
+  },
+  {
+    "id": "so_e2_12",
+    "lang": "so",
+    "level": 2,
+    "question": "Hodan ... akhriday buugga.",
+    "options": [
+      "wuu",
+      "waad",
+      "waan",
+      "way"
+    ],
+    "answerIndex": 3,
+    "explanation": "Hodan waa gabar, sidaas darteed waa way. Wuu waxaa loo isticmaalaa wiil ama nin."
+  },
+  {
+    "id": "so_e2_13",
+    "lang": "so",
+    "level": 2,
+    "question": "Waxaad rabtaa inaad ogaato meesha uu aabbe tagay. Su'aashee baad isticmaalaysaa?",
+    "options": [
+      "Goorma?",
+      "Xaggee?",
+      "Yaa?",
+      "Maxaa?"
+    ],
+    "answerIndex": 1,
+    "explanation": "Xaggee waxay weydiinaysaa meel. Goorma waa waqti, yaa waa qof, maxaa waa shay."
+  },
+  {
+    "id": "so_e2_14",
+    "lang": "so",
+    "level": 2,
+    "question": "Qoraalka tilmaanta (sida canjeerada loo sameeyo) maxuu kuu sheegayaa?",
+    "options": [
+      "Sheeko jilayaal leh",
+      "Gabay",
+      "Sida wax loo sameeyo tallaabo tallaabo",
+      "Maahmaah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Qoraalka tilmaantu wuxuu leeyahay waxyaabaha loo baahan yahay iyo tallaabooyin: marka hore, ka dibna, ugu dambeyn."
+  },
+  {
+    "id": "so_e3_01",
+    "lang": "so",
+    "level": 3,
+    "question": "Weedha af-Soomaaliga, xaggee buu falku badanaa ku fadhiyaa?",
+    "options": [
+      "Dhammaadka",
+      "Bilowga",
+      "Dhexda",
+      "Meel kasta"
+    ],
+    "answerIndex": 0,
+    "explanation": "Af-Soomaaliga, shayga la falo wuxuu ka horreeyaa falka: Ilyaas buug wuu akhriyay. Falku wuxuu ku dhow yahay dhammaadka."
+  },
+  {
+    "id": "so_e3_02",
+    "lang": "so",
+    "level": 3,
+    "question": "Kee ka mid ah kuwan si sax ah loo calaamadeeyay?",
+    "options": [
+      "xaggee baad ku dhalatay.",
+      "Xaggee baad ku dhalatay?",
+      "Xaggee baad ku dhalatay",
+      "xaggee baad ku dhalatay!"
+    ],
+    "answerIndex": 1,
+    "explanation": "Weedhu waa su'aal, sidaas darteed waxay u baahan tahay calaamadda (?), waxayna ku bilaabmaysaa xaraf weyn."
+  },
+  {
+    "id": "so_e3_03",
+    "lang": "so",
+    "level": 3,
+    "question": "Kee ka mid ah kuwan waa sax?",
+    "options": [
+      "Wuu tegay iyo wuu soo noqday.",
+      "Wuu tegay marka wuu soo noqday.",
+      "Wuu tegay oo wuu soo noqday.",
+      "Wuu tegay sidaas darteed wuu soo noqday."
+    ],
+    "answerIndex": 2,
+    "explanation": "Laba fal waxaa isku xidha oo. Iyo waxaa loo isticmaalaa laba magac: geel iyo lo'."
+  },
+  {
+    "id": "so_e3_04",
+    "lang": "so",
+    "level": 3,
+    "question": "Faqrad wanaagsan immisa mawduuc ayay leedahay?",
+    "options": [
+      "Saddex",
+      "Hal mawduuc oo keliya",
+      "Laba",
+      "Mid kasta oo maskaxda ku soo dhaca"
+    ],
+    "answerIndex": 1,
+    "explanation": "Faqrad kastaa hal mawduuc ayay leedahay: weedh hordhac ah, weedho taageero ah, iyo weedh gunaanad ah."
+  },
+  {
+    "id": "so_e3_05",
+    "lang": "so",
+    "level": 3,
+    "question": "Xor + nimo = ?",
+    "options": [
+      "xornimo",
+      "xoryahan",
+      "xoreed",
+      "xorsan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Lifaaqa -nimo wuxuu xaalad ka dhigaa magac: xor → xornimo, waalid → waalidnimo."
+  },
+  {
+    "id": "so_e3_06",
+    "lang": "so",
+    "level": 3,
+    "question": "Xarfahee baan af-Soomaaliga ku jirin?",
+    "options": [
+      "x, c iyo q",
+      "dh, sh iyo kh",
+      "p, v iyo z",
+      "w, y iyo j"
+    ],
+    "answerIndex": 2,
+    "explanation": "Alifbeetada Soomaaligu waxay isticmaashaa xarfaha Laatiinka oo dhan marka laga reebo p, v iyo z. Sidaas darteed waxaa la qoraa baasto, ma aha pasta."
+  },
+  {
+    "id": "so_e3_07",
+    "lang": "so",
+    "level": 3,
+    "question": "Waa maxay macnaha maahmaahda: Far keliya fool ma dhaqdo?",
+    "options": [
+      "Nadaafaddu waa muhiim",
+      "Hal qof kaligiis shaqo weyn ma qaban karo",
+      "Gacmaha maalin walba dhaq",
+      "Aamusnaantu waa dahab"
+    ],
+    "answerIndex": 1,
+    "explanation": "Maahmaahdu waxay ka hadlaysaa iskaashiga: qofku dadka kale ayuu u baahan yahay."
+  },
+  {
+    "id": "so_e3_08",
+    "lang": "so",
+    "level": 3,
+    "question": "Waa maxay xeerka higgaadda ee gabayga Soomaaliga?",
+    "options": [
+      "Tix kastaa waa inay isku dhawaaq ku dhammaato",
+      "Tix kastaa waa inay siddeed xaraf ahaato",
+      "Gabaygu waa inuu afar tix ahaadaa",
+      "Tix kastaa waa inay ku jirtaa eray ku bilaabma xarafka la doortay"
+    ],
+    "answerIndex": 3,
+    "explanation": "Higgaaddu waxay ka dhigan tahay in tix kasta oo gabayga ka mid ah ay ku jirto ugu yaraan hal eray oo ku bilaabma isla xarafkii la doortay."
+  },
+  {
+    "id": "so_e3_09",
+    "lang": "so",
+    "level": 3,
+    "question": "Kee ka mid ah kuwan waa maansada haweenka?",
+    "options": [
+      "Geeraar",
+      "Jiifto",
+      "Buraanbur",
+      "Gabay"
+    ],
+    "answerIndex": 2,
+    "explanation": "Buraanbur waa nooca maansada ee haweenku curiyaan oo garaacaan, gaar ahaan munaasabadaha."
+  },
+  {
+    "id": "so_e3_10",
+    "lang": "so",
+    "level": 3,
+    "question": "Xilligee baa ah roobka weyn ee dhulka cagaariya?",
+    "options": [
+      "Gu'",
+      "Jiilaal",
+      "Xagaa",
+      "Dayr"
+    ],
+    "answerIndex": 0,
+    "explanation": "Gu' (Abriil–Juun) waa roobka weyn. Jiilaalku waa xilliga qalalan ee adag, dayrtuna waa roobka yar."
+  },
+  {
+    "id": "so_e3_11",
+    "lang": "so",
+    "level": 3,
+    "question": "Hal caano leh oo hadda la lisi karo — maxaa la yidhaahdaa?",
+    "options": [
+      "awr",
+      "nirig",
+      "qaalin",
+      "irman"
+    ],
+    "answerIndex": 3,
+    "explanation": "Irman waa hal caano leh. Awr waa geela rarka qaada, nirigna waa ilmaha geela."
+  },
+  {
+    "id": "so_e3_12",
+    "lang": "so",
+    "level": 3,
+    "question": "Immisa wabi oo waaweyn ayaa Soomaaliya leedahay, magacyadooduna waa kuwee?",
+    "options": [
+      "Laba: Shabeelle iyo Jubba",
+      "Afar: Shabeelle, Jubba, Nugaal iyo Haud",
+      "Mid: Shabeelle",
+      "Saddex: Jubba, Shabeelle iyo Doollo"
+    ],
+    "answerIndex": 0,
+    "explanation": "Laba wabi oo keliya ayaa jira — Wabiga Shabeelle iyo Wabiga Jubba — labaduna waxay ka soo bilaabmaan buuraha Itoobiya."
+  },
+  {
+    "id": "so_e3_13",
+    "lang": "so",
+    "level": 3,
+    "question": "Goorma ayaa af-Soomaaliga si rasmi ah loogu qoray farta Laatiinka?",
+    "options": [
+      "1920-meeyadii",
+      "1991",
+      "Oktoobar 1972",
+      "1975"
+    ],
+    "answerIndex": 2,
+    "explanation": "Oktoobar 1972 ayaa la doortay farta Laatiinka kadib soo jeedimo badan. 1974–75 waxaa la sameeyay Ololaha Horumarinta Reer Miyiga."
+  },
+  {
+    "id": "so_e3_14",
+    "lang": "so",
+    "level": 3,
+    "question": "Sheekada Cigaal Shidaad, muxuu ahaa waxa uu habeenkii u maleeyay libaax?",
+    "options": [
+      "Waraabe",
+      "Jirid geed oo qallalan",
+      "Dhagax weyn",
+      "Awr fadhiya"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mugdiga ayaa jiridda geedka ka dhigay libaax. Casharku waa: ka fiirso ka hor intaadan go'aan gaadhin — sida maahmaahdu tidhi, Intaadan falin ka fiirso."
+  }
+]

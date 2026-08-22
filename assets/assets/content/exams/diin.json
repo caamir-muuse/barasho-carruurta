@@ -1,0 +1,720 @@
+[
+  {
+    "id": "diin_e1_01",
+    "lang": "diin",
+    "level": 1,
+    "question": "Yaa abuuray samada, dhulka iyo geela?",
+    "options": [
+      "Dadka",
+      "Alle",
+      "Malaa'igta"
+    ],
+    "answerIndex": 1,
+    "explanation": "Alle baa abuuray wax kasta. Dadku wax bay dhisi karaan, laakiin ma abuuri karaan."
+  },
+  {
+    "id": "diin_e1_02",
+    "lang": "diin",
+    "level": 1,
+    "question": "Magaca Alle ee macnihiisu yahay Abuuraha waa kee?",
+    "options": [
+      "Ar-Raxiim",
+      "As-Samiic",
+      "Al-Khaaliq"
+    ],
+    "answerIndex": 2,
+    "explanation": "Al-Khaaliq waa Abuuraha. Ar-Raxiim waa Naxariistaha, As-Samiic-na waa Wax walba Maqlaha."
+  },
+  {
+    "id": "diin_e1_03",
+    "lang": "diin",
+    "level": 1,
+    "question": "Magaca Alle ee macnihiisu yahay Naxariis-badanaha waa kee?",
+    "options": [
+      "Ar-Raxmaan",
+      "Al-Basiir",
+      "Al-Khaaliq"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ar-Raxmaan macnihiisu waa Naxariis-badanaha — naxariistiisu waxay gaadhaa dadka oo dhan."
+  },
+  {
+    "id": "diin_e1_04",
+    "lang": "diin",
+    "level": 1,
+    "question": "Maxaad tidhaahdaa ka hor intaadan wax cunin?",
+    "options": [
+      "Alxamdulillaah",
+      "Bismillaah",
+      "Ghufraanak"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bismillaah waa bilowga cuntada. Alxamdulillaah waxaad tidhaahdaa markaad dhammayso."
+  },
+  {
+    "id": "diin_e1_05",
+    "lang": "diin",
+    "level": 1,
+    "question": "Gacantee ayaa wax lagu cunaa?",
+    "options": [
+      "Gacanta bidix",
+      "Gacanta midig"
+    ],
+    "answerIndex": 1,
+    "explanation": "Nebigu ﷺ wuxuu wiil yar ku yidhi: magaca Alle xus, midigtaada wax ku cun, waxa kuu dhowna ka cun. (Bukhaari 5376, Muslim 2022)"
+  },
+  {
+    "id": "diin_e1_06",
+    "lang": "diin",
+    "level": 1,
+    "question": "Shahaadadu waxay sheegaysaa in la caabudo yaa?",
+    "options": [
+      "Nebiyada",
+      "Alle iyo waxyaabo kale",
+      "Alle keliya"
+    ],
+    "answerIndex": 2,
+    "explanation": "Laa ilaaha illa-llaah macnihiisu waa: ma jiro wax xaq lagu caabudo Alle mooyaane."
+  },
+  {
+    "id": "diin_e1_07",
+    "lang": "diin",
+    "level": 1,
+    "question": "Tiirka koowaad ee Islaamka waa maxay?",
+    "options": [
+      "Shahaadada",
+      "Salaadda",
+      "Wuduu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Shahaadadu waa tiirka koowaad. Salaaddu waa tiirka labaad. Wuduu ma aha tiir — waa diyaargarowga salaadda."
+  },
+  {
+    "id": "diin_e1_08",
+    "lang": "diin",
+    "level": 1,
+    "question": "Cabdi keligiis ayuu qolka ku jiraa. Ma jiraa qof arka waxa uu samaynayo?",
+    "options": [
+      "Maya, qofna ma arko",
+      "Haa, Alle wuu arkaa"
+    ],
+    "answerIndex": 1,
+    "explanation": "Alle waa Al-Basiir — wax walba wuu arkaa, xitaa marka aan dad joogin."
+  },
+  {
+    "id": "diin_e1_09",
+    "lang": "diin",
+    "level": 1,
+    "question": "Maxay dadkii Makka ugu yeedhi jireen Nebi Muxammad ﷺ isagoo yar?",
+    "options": [
+      "Al-Khaaliq",
+      "Al-Amiin",
+      "Ar-Raxmaan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Al-Amiin macnihiisu waa kan la aamino, waayo run buu sheegi jiray. Al-Khaaliq iyo Ar-Raxmaan waa magacyo Alle."
+  },
+  {
+    "id": "diin_e1_10",
+    "lang": "diin",
+    "level": 1,
+    "question": "Malaa'igta maxaa laga abuuray?",
+    "options": [
+      "Dhoobo",
+      "Biyo",
+      "Nuur"
+    ],
+    "answerIndex": 2,
+    "explanation": "Malaa'igta waxaa laga abuuray nuur. Waa abuur aan la arag, marnabana Alle ma caasiyaan."
+  },
+  {
+    "id": "diin_e1_11",
+    "lang": "diin",
+    "level": 1,
+    "question": "Yaa ahaa malagga waxyiga u keeni jiray nebiyada?",
+    "options": [
+      "Jibriil",
+      "Aadam",
+      "Cali"
+    ],
+    "answerIndex": 0,
+    "explanation": "Jibriil waa malagga waxyiga Alle u keena nebiyada, wuxuuna u keenay Nebi Muxammad ﷺ."
+  },
+  {
+    "id": "diin_e1_12",
+    "lang": "diin",
+    "level": 1,
+    "question": "Xaawo waxay kugu tidhi: As-salaamu calaykum. Maxaad ugu jawaabaysaa?",
+    "options": [
+      "Alxamdulillaah",
+      "Wa calaykumu-s-salaam",
+      "Bismillaah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Jawaabta salaantu waa Wa calaykumu-s-salaam."
+  },
+  {
+    "id": "diin_e1_13",
+    "lang": "diin",
+    "level": 1,
+    "question": "Maxaad tidhaahdaa ka hor intaadan seexan?",
+    "options": [
+      "Ghufraanak",
+      "As-salaamu calaykum",
+      "Bismika-llaahumma amuutu wa axyaa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Waa ducada hurdada (Bukhaari iyo Muslim). Ghufraanak waxaad tidhaahdaa markaad musqusha ka baxayso."
+  },
+  {
+    "id": "diin_e1_14",
+    "lang": "diin",
+    "level": 1,
+    "question": "Ducada toosintu maxay ku bilaabmaysaa?",
+    "options": [
+      "Bismika-llaahumma",
+      "Alxamdulillaah",
+      "Allaahumma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Alxamdu lillaahi-lladhii axyaanaa bacda maa amaatanaa wa ilayhi-n-nushuur. (Bukhaari iyo Muslim)"
+  },
+  {
+    "id": "diin_e1_15",
+    "lang": "diin",
+    "level": 1,
+    "question": "Maxaad tidhaahdaa markaad musqusha ka baxayso?",
+    "options": [
+      "Ghufraanak",
+      "Bismillaah",
+      "Subxaanallaah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ghufraanak macnihiisu waa: Alle, dambidhaaf baan kaa baryayaa. (Abu Daawuud 30)"
+  },
+  {
+    "id": "diin_e1_16",
+    "lang": "diin",
+    "level": 1,
+    "question": "Goorma ayaad tidhaahdaa ducada: Allaahumma innii acuudhu bika mina-l-khubuthi wa-l-khabaa'ith?",
+    "options": [
+      "Markaan musqusha ku jiro",
+      "Ka hor intaanan musqusha gelin",
+      "Markaan cunayo"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ducada waxaad tidhaahdaa adigoo weli dibadda jooga, ka hor intaadan gelin. (Bukhaari 142, Muslim 375)"
+  },
+  {
+    "id": "diin_e1_17",
+    "lang": "diin",
+    "level": 1,
+    "question": "Tallaabada koowaad ee wuduu waa tee?",
+    "options": [
+      "Lugaha dhaqid",
+      "Madaxa masaxid",
+      "Wajiga dhaqid"
+    ],
+    "answerIndex": 2,
+    "explanation": "Nidaamku waa: waji, gacmo ilaa xusullada, madax masax, lugo ilaa canqowyada. (Qur'aan 5:6)"
+  },
+  {
+    "id": "diin_e1_18",
+    "lang": "diin",
+    "level": 1,
+    "question": "Wuduu ka dib marka aad madaxa masaxdo, maxaa xiga?",
+    "options": [
+      "Wajiga dhaq mar labaad",
+      "Lugaha dhaq ilaa canqowyada",
+      "Gacmaha dhaq mar labaad"
+    ],
+    "answerIndex": 1,
+    "explanation": "Lugaha ayaa u dambeeya. Wajiga iyo gacmaha horay baa loo dhaqay."
+  },
+  {
+    "id": "diin_e1_19",
+    "lang": "diin",
+    "level": 1,
+    "question": "Immisa jeer ayuu Muslimku maalintii tukadaa?",
+    "options": [
+      "Saddex jeer",
+      "Shan jeer",
+      "Toban jeer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Shan salaadood ayaa maalintii ah, salaadduna waa tiirka labaad ee Islaamka."
+  },
+  {
+    "id": "diin_e1_20",
+    "lang": "diin",
+    "level": 1,
+    "question": "Salaadda ugu horreysa maalintii, ka hor qorrax-soo-baxa, waa tee?",
+    "options": [
+      "Maqrib",
+      "Fajr"
+    ],
+    "answerIndex": 1,
+    "explanation": "Fajr waa ka hor qorrax-soo-baxa. Maqrib waa marka qorraxdu dhacdo."
+  },
+  {
+    "id": "diin_e1_21",
+    "lang": "diin",
+    "level": 1,
+    "question": "Nebigu ﷺ wuxuu yidhi: tahaaradu waa ______ iimaanka. Erayga maqan waa kee?",
+    "options": [
+      "Rubuc",
+      "Dhammaan",
+      "Nus"
+    ],
+    "answerIndex": 2,
+    "explanation": "At-Tahuuru shatrul-iimaan — tahaaradu waa nus iimaanka. (Muslim 223)"
+  },
+  {
+    "id": "diin_e2_01",
+    "lang": "diin",
+    "level": 2,
+    "question": "Tiirka saddexaad ee Islaamka waa maxay?",
+    "options": [
+      "Soonka",
+      "Zakada",
+      "Xajjka",
+      "Salaadda"
+    ],
+    "answerIndex": 1,
+    "explanation": "Nidaamku waa shahaado, salaad, zakah, soon, xajj. Zakada ayaa saddexaad."
+  },
+  {
+    "id": "diin_e2_02",
+    "lang": "diin",
+    "level": 2,
+    "question": "Immisa rakcadood ayaa salaadda Maqrib leedahay?",
+    "options": [
+      "Saddex",
+      "Laba",
+      "Afar",
+      "Shan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Maqrib waa tan keliya ee saddex rakcadood leh. Fajr waa laba, Duhur, Casr iyo Cishena afar-afar."
+  },
+  {
+    "id": "diin_e2_03",
+    "lang": "diin",
+    "level": 2,
+    "question": "Salaadda saqda dhexe, marka qorraxdu cirka dhexdiisa ka leexato, waa tee?",
+    "options": [
+      "Casr",
+      "Cishe",
+      "Duhur",
+      "Fajr"
+    ],
+    "answerIndex": 2,
+    "explanation": "Duhur waa salaadda saqda dhexe. Casr waa galabta, Cishena waa markuu habeenku madoobaado."
+  },
+  {
+    "id": "diin_e2_04",
+    "lang": "diin",
+    "level": 2,
+    "question": "Da'dee ayaa carruurta lagu amray inay salaadda bilaabaan sida hadiiska Abu Daawuud 495?",
+    "options": [
+      "Shan sano",
+      "Toddoba sano",
+      "Toban sano",
+      "Laba iyo toban sano"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hadiiska (Abu Daawuud 495 — xasan sax) wuxuu waalidka ku amrayaa inay carruurta salaadda ku faraan markay toddoba sano jiraan."
+  },
+  {
+    "id": "diin_e2_05",
+    "lang": "diin",
+    "level": 2,
+    "question": "Kee ka mid ah kuwan wuduu buriya?",
+    "options": [
+      "Cunto cunista",
+      "Qosolka",
+      "Hurdo qoto dheer oo miyirka beelisa",
+      "Qur'aan akhriska"
+    ],
+    "answerIndex": 2,
+    "explanation": "Waxa wuduu buriya waxaa ka mid ah musqusha isticmaalkeeda, dabo-dhaca iyo hurdada qoto dheer."
+  },
+  {
+    "id": "diin_e2_06",
+    "lang": "diin",
+    "level": 2,
+    "question": "Maxaad saddex jeer ku celisaa rukuuca?",
+    "options": [
+      "Subxaana Rabbiyal-Aclaa",
+      "Subxaana Rabbiyal-Cadhiim",
+      "Rabbigh-fir lii",
+      "Allaahu Akbar"
+    ],
+    "answerIndex": 1,
+    "explanation": "Rukuuca waxaa lagu celiyaa Subxaana Rabbiyal-Cadhiim; sujuuddana Subxaana Rabbiyal-Aclaa."
+  },
+  {
+    "id": "diin_e2_07",
+    "lang": "diin",
+    "level": 2,
+    "question": "Immisa xubnood ayaa dhulka taabanaya markaad sujuudayso?",
+    "options": [
+      "Shan",
+      "Saddex",
+      "Sagaal",
+      "Toddoba"
+    ],
+    "answerIndex": 3,
+    "explanation": "Toddoba: wejiga, labada gacmood, labada jilib iyo faraha labada lug. (Bukhaari 812)"
+  },
+  {
+    "id": "diin_e2_08",
+    "lang": "diin",
+    "level": 2,
+    "question": "Muadhinku wuxuu yidhi: Xayya calas-salaah. Maxaad ugu jawaabaysaa?",
+    "options": [
+      "Laa xawla wa laa quwwata illaa billaah",
+      "Xayya calas-salaah",
+      "Alxamdulillaah",
+      "Qad qaamatis-salaah"
+    ],
+    "answerIndex": 0,
+    "explanation": "Erayada kale waad ku celinaysaa, laakiin Xayya calas-salaah iyo Xayya calal-falaax waxaad ugu jawaabaysaa Laa xawla wa laa quwwata illaa billaah. (Muslim 385)"
+  },
+  {
+    "id": "diin_e2_09",
+    "lang": "diin",
+    "level": 2,
+    "question": "Maxaad tidhaahdaa markaad masjidka gelayso?",
+    "options": [
+      "Allaahumma innii as'aluka min fadlik",
+      "Ghufraanak",
+      "Allaahumma-ftax lii abwaaba raxmatik",
+      "Bismillaah tawakkaltu calallaah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Gelitaanka waa ducada naxariista, bixitaankana waa ducada fadliga. (Muslim 713)"
+  },
+  {
+    "id": "diin_e2_10",
+    "lang": "diin",
+    "level": 2,
+    "question": "Immisa darajo ayay salaadda jamaacadu ka fiican tahay tan qofku keligiis tukado?",
+    "options": [
+      "Toban",
+      "Toddoba iyo labaatan",
+      "Boqol",
+      "Shan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bukhaari 645 iyo Muslim 650: toddoba iyo labaatan darajo — waana hadiis la isku raacay."
+  },
+  {
+    "id": "diin_e2_11",
+    "lang": "diin",
+    "level": 2,
+    "question": "Nuur wuu soomayaa. Wuu iloobay oo biyo buu cabbay. Maxaa dhacay soonkiisii?",
+    "options": [
+      "Wuu jabay, maalinta ha iska daayo",
+      "Wuu jabay, waana inuu maalin kale beddelo",
+      "Wuu sii socdaa — hilmaanku wax ma dumiyo",
+      "Waa inuu qadaa iyo kafaaro labadaba bixiyaa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Qofka hilmaama oo cuna ama cabba soonkiisu wuu sii socdaa; waa inuu sii soomaa markuu xusuusto."
+  },
+  {
+    "id": "diin_e2_12",
+    "lang": "diin",
+    "level": 2,
+    "question": "Laylatul-Qadr goorma ayaa lagu doondoonaa?",
+    "options": [
+      "Habeenkii koowaad ee Ramadaan",
+      "Habeenka Ciidda",
+      "Jimce kasta",
+      "Habeennada kala qaybsan ee tobanka dambe"
+    ],
+    "answerIndex": 3,
+    "explanation": "Nebigu ﷺ wuxuu yidhi: doondoona Laylatul-Qadr habeennada kala qaybsan ee tobanka dambe ee Ramadaan. (Bukhaari 2017)"
+  },
+  {
+    "id": "diin_e2_13",
+    "lang": "diin",
+    "level": 2,
+    "question": "Zakada maalku waa immisa boqolkiiba?",
+    "options": [
+      "Boqolkiiba laba iyo badh",
+      "Boqolkiiba toban",
+      "Boqolkiiba shan",
+      "Boqolkiiba konton"
+    ],
+    "answerIndex": 0,
+    "explanation": "2.5% — kun kasta, shan iyo labaatan. Sadaqaduse tiro go'an ma leh."
+  },
+  {
+    "id": "diin_e2_14",
+    "lang": "diin",
+    "level": 2,
+    "question": "Zakaatul-fitr goorma ayaa la bixiyaa?",
+    "options": [
+      "Ciidda ka dib",
+      "Ka hor salaadda Ciidul-Fitr",
+      "Bisha Rajab",
+      "Sannad kasta dhammaadkiisa"
+    ],
+    "answerIndex": 1,
+    "explanation": "Waa in la gaadhsiiyaa masaakiinta ka hor salaadda Ciidda, si aanay maalinta Ciidda cunto u waayin. (Bukhaari 1503)"
+  },
+  {
+    "id": "diin_e2_15",
+    "lang": "diin",
+    "level": 2,
+    "question": "Zabuurka nebigee ayaa la siiyay?",
+    "options": [
+      "Nebi Muuse",
+      "Nebi Ciise",
+      "Nebi Daawuud",
+      "Nebi Ibraahiim"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tawraad — Muuse, Zabuur — Daawuud, Injiil — Ciise, Qur'aan — Muxammad ﷺ."
+  },
+  {
+    "id": "diin_e2_16",
+    "lang": "diin",
+    "level": 2,
+    "question": "Guuleed imtixaan buu qabaa. Wuxuu yidhi: qaddarka Alle ayaa go'aaminaya, ee ma akhrinayo. Ma sax baa?",
+    "options": [
+      "Haa, wax kastaba waa qaddar",
+      "Maya — geela xidho, ka dibna tala saaro: waa inuu akhriyo oo uu Alle tala saarto",
+      "Haa, ducadu waa ku filan tahay",
+      "Maya, ducadu wax ma tarto"
+    ],
+    "answerIndex": 1,
+    "explanation": "Nebigu ﷺ wuxuu ninkii weydiiyay ku yidhi: geela xidho, ka dibna tala saaro (Tirmidhi 2517 — xasan). Dadaalka iyo tawakkulku way isku raacaan."
+  },
+  {
+    "id": "diin_e3_01",
+    "lang": "diin",
+    "level": 3,
+    "question": "Maxaa dhacay Sanadkii Maroodiga?",
+    "options": [
+      "Nebigu ﷺ wuxuu tegey Taa'if",
+      "Kacbadii waa la dhisay",
+      "Alle wuxuu Kacbada ka celiyay ciidankii Abraha",
+      "Waxyigii ayaa soo degay"
+    ],
+    "answerIndex": 2,
+    "explanation": "Suuratul-Fiil ayaa dhacdadaas sheegaysa. Sanadkaas ayuu ku dhashay Nebigu ﷺ, qiyaastii 570 miilaadi."
+  },
+  {
+    "id": "diin_e3_02",
+    "lang": "diin",
+    "level": 3,
+    "question": "Yaa ilaaliyay Nebiga ﷺ markii awoowgiis Cabdul-Muttalib geeriyooday?",
+    "options": [
+      "Abu Daalib, adeerkiis",
+      "Xaliima as-Sacdiyyah",
+      "Khadiija",
+      "Waraqah ibnu Nawfal"
+    ],
+    "answerIndex": 0,
+    "explanation": "Abu Daalib ayaa gacanta ku dhigay ilaa uu weynaaday, in kastoo aanu Islaamka gelin."
+  },
+  {
+    "id": "diin_e3_03",
+    "lang": "diin",
+    "level": 3,
+    "question": "Erayga ugu horreeyay ee Qur'aanka ka soo degay godka Xiraa waa maxay?",
+    "options": [
+      "Bismillaah",
+      "Alxamdulillaah",
+      "Qul",
+      "Iqra"
+    ],
+    "answerIndex": 3,
+    "explanation": "Iqra — Akhri. (Qur'aan 96:1) Amarkii ugu horreeyay ee diintu waa akhris."
+  },
+  {
+    "id": "diin_e3_04",
+    "lang": "diin",
+    "level": 3,
+    "question": "Markuu Nebigu ﷺ argagaxsan guriga ku noqday, maxay Khadiija ku tidhi?",
+    "options": [
+      "Wallaahi Alle marnaba ma dulleeyo",
+      "Nasteex oo hurdo",
+      "Qofna ha u sheegin",
+      "Waxaad u baahan tahay dhakhtar"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bukhaari 3. Waxay taageertay hadal ku salaysan camalladiisii: qaraabada wuu xidhaa, dadka dhibaataysan wuu qaadaa, martida wuu maamuusaa."
+  },
+  {
+    "id": "diin_e3_05",
+    "lang": "diin",
+    "level": 3,
+    "question": "Bilaal ibnu Rabaax maxuu ku celin jiray isagoo dhulka kulul lagu silcinayo?",
+    "options": [
+      "Alxamdulillaah",
+      "Bismillaah",
+      "Axad, Axad",
+      "Laa xawla"
+    ],
+    "answerIndex": 2,
+    "explanation": "Axad micnihiisu waa Mid keliya. Silic kastaba, wuxuu ku dhegay tawxiidka. Abu Bakr ayaa dabadeed iibsaday oo xoreeyay."
+  },
+  {
+    "id": "diin_e3_06",
+    "lang": "diin",
+    "level": 3,
+    "question": "Maxaa Nebigu ﷺ ugu diray Muslimiintii ugu horreeyay dhulka Xabashada?",
+    "options": [
+      "Waxay ahayd dal Muslim ah",
+      "Waxaa halkaas joogay boqor aan qofna agtiisa lagu dulmin",
+      "Way ka dhawayd Makka",
+      "Ganacsi bay u tageen"
+    ],
+    "answerIndex": 1,
+    "explanation": "Wuxuu magacaabay caddaaladda An-Najaashi, ma uusan magacaabin diintiisa. Markuu geeriyooday, salaadda janaazada ayuu Madiina ugu tukaday. (Bukhaari 1245)"
+  },
+  {
+    "id": "diin_e3_07",
+    "lang": "diin",
+    "level": 3,
+    "question": "Malaggii buuraha markuu bixiyay in Taa'if lagu dul rogo labada buurood, muxuu Nebigu ﷺ ku jawaabay?",
+    "options": [
+      "Wuu aqbalay",
+      "Wuu aamusay",
+      "Wuu diiday oo wuxuu rajeeyay in farcankoodu Alle keliya caabudo",
+      "Wuxuu weydiistay wakhti"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bukhaari 3231, Muslim 1795 — la isku raacay. Wuxuu doortay rajo, ma aha aargoosi; Taa'if maantana waa magaalo Muslim ah."
+  },
+  {
+    "id": "diin_e3_08",
+    "lang": "diin",
+    "level": 3,
+    "question": "Habeenkii Israa iyo Micraaj, immisa salaadood ayaa marka hore la amray?",
+    "options": [
+      "Konton",
+      "Toban",
+      "Shan",
+      "Labaatan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Konton ayaa la amray; talada Muuse ka dib waxay noqotay shan camal ah oo konton ajar ah. (Bukhaari 349, Muslim 162)"
+  },
+  {
+    "id": "diin_e3_09",
+    "lang": "diin",
+    "level": 3,
+    "question": "Muxuu Nebigu ﷺ ku yidhi Abu Bakr godka Thawr gudihiisa?",
+    "options": [
+      "Iska qari",
+      "Ordo",
+      "Ha murugoon, Alle waa nala jiraa",
+      "Sug ilaa habeenku dhammaado"
+    ],
+    "answerIndex": 2,
+    "explanation": "Qur'aan 9:40 ayaa erayadaas kaydiyay: Laa taxzan innallaaha macanaa."
+  },
+  {
+    "id": "diin_e3_10",
+    "lang": "diin",
+    "level": 3,
+    "question": "Maxaa lagu sii daayay maxaabiistii Badr ee wax akhrisan karay?",
+    "options": [
+      "Lacag badan",
+      "Inay toban ilmo oo Madiina ah wax baraan sida wax loo akhriyo",
+      "Inay Islaamka galaan",
+      "Geel iyo faras"
+    ],
+    "answerIndex": 1,
+    "explanation": "Aqoonta ayaa lagu qiimeeyay xoriyad — hal maxbuus oo toban ilmo wax bara ayaa xor noqonayay."
+  },
+  {
+    "id": "diin_e3_11",
+    "lang": "diin",
+    "level": 3,
+    "question": "Maalintii Fatxu Makka, muxuu Nebigu ﷺ ku yidhi dadkii sannado silciyay?",
+    "options": [
+      "Taga, waad xor tihiin",
+      "Magaalada ka baxa",
+      "Waa la idin ciqaabayaa",
+      "Maalka bixiya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Waxaa ku wariyay kutubta siirada (Ibnu Hishaam, Al-Bayhaqi). Awood buu lahaa, cafis buuse doortay — dadkaasna waxaa la yidhi At-Tulaqaa."
+  },
+  {
+    "id": "diin_e3_12",
+    "lang": "diin",
+    "level": 3,
+    "question": "Khudbadda Sagootinta, maxaa dadka kala fiicaysa?",
+    "options": [
+      "Qabiilka",
+      "Maalka",
+      "Dalka",
+      "Taqwada"
+    ],
+    "answerIndex": 3,
+    "explanation": "Carabi kuma sarreeyo Carab-la'aan, cadna kuma sarreeyo madow — taqwada oo keliya. (Musnad Axmad — sax)"
+  },
+  {
+    "id": "diin_e3_13",
+    "lang": "diin",
+    "level": 3,
+    "question": "Kee ka mid ah kuwan MA aha mid ka mid ah shanta Ulul-Cazmi?",
+    "options": [
+      "Nuux",
+      "Yuusuf",
+      "Muuse",
+      "Ciise"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ulul-Cazmi waa Nuux, Ibraahiim, Muuse, Ciise iyo Muxammad ﷺ. Yuusuf waa nebi, laakiin shantaas kuma jiro."
+  },
+  {
+    "id": "diin_e3_14",
+    "lang": "diin",
+    "level": 3,
+    "question": "Ducada Nebi Yuunus ee uu ku duceeyay kalluunka caloosha waa tee?",
+    "options": [
+      "Rabbi zidnii cilmaa",
+      "Xasbunallaahu wa nicmal wakiil",
+      "Laa ilaaha illaa anta subxaanaka innii kuntu minadh-dhaalimiin",
+      "Rabbanaa aatinaa fid-dunyaa xasanah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Qur'aan 21:87. Waxay isku dartaa tawxiid, nazaho iyo qirasho — waana duco meel kasta laga samayn karo."
+  },
+  {
+    "id": "diin_e3_15",
+    "lang": "diin",
+    "level": 3,
+    "question": "Ilmo baa ku weydiiyay: Alle muu eg yahay? Jawaabta ugu sax badani waa tee?",
+    "options": [
+      "Waxba lama mid aha — waxaan rumaynaa waxa uu iskiis ka sheegay, qaabkase ma sawirno",
+      "Waa iftiin weyn",
+      "Waa sida aabbe weyn oo cirka jooga",
+      "Ma jirto jawaab, waana su'aal xun"
+    ],
+    "answerIndex": 0,
+    "explanation": "Qur'aan 42:11: Laysa kamithlihi shay'. Magacyada iyo sifooyinka waan rumaynaa, qaabka la mid ah abuurka ma sawirno."
+  },
+  {
+    "id": "diin_e3_16",
+    "lang": "diin",
+    "level": 3,
+    "question": "Ilhaan waxay dugsiga ka heshay keeg, mana hubto waxa lagu sameeyay. Maxay samaynaysaa?",
+    "options": [
+      "Way cunaysaa, cuntada oo dhan waa xalaal",
+      "Way weydiinaysaa ama xarafyada way akhrinaysaa; haddaanay hubin way ka tagaysaa",
+      "Way diidaysaa cunto kasta oo dibadda ah",
+      "Way cunaysaa haddii ay macaan tahay"
+    ],
+    "answerIndex": 1,
+    "explanation": "Waa qaacidada mushtabihka: xalaashu waa cad, xaraantuna waa cad, qofkii iska ilaaliya shakiga diintiisa wuu badbaadiyay. (Bukhaari 52, Muslim 1599)"
+  }
+]

@@ -1,0 +1,605 @@
+[
+  {
+    "id": "en_e1_01",
+    "lang": "en",
+    "level": 1,
+    "question": "Erayga Ingiriisiga ah cat macnihiisu waa?",
+    "options": [
+      "bisad",
+      "ey",
+      "kalluun"
+    ],
+    "answerIndex": 0,
+    "explanation": "cat waa bisad. Waxaa laga sameeyaa saddex dhawaaq: c - a - t."
+  },
+  {
+    "id": "en_e1_02",
+    "lang": "en",
+    "level": 1,
+    "question": "Waad soo gashay guriga, qoyskaagana waad aragtay. Ingiriisiga maxaad dhahaysaa?",
+    "options": [
+      "Goodbye!",
+      "Hello!"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hello waxaa la dhahaa marka aad timaaddo. Goodbye waa marka aad meel ka tagayso."
+  },
+  {
+    "id": "en_e1_03",
+    "lang": "en",
+    "level": 1,
+    "question": "Xarafka s wuxuu dhahaa?",
+    "options": [
+      "t",
+      "sss",
+      "a"
+    ],
+    "answerIndex": 1,
+    "explanation": "s wuxuu dhahaa sss, waana la jiidi karaa sida abeeso. Ha dhihin se."
+  },
+  {
+    "id": "en_e1_04",
+    "lang": "en",
+    "level": 1,
+    "question": "Dhawaaqyada s-a-t oo la isku daray waxay samaynayaan eray?",
+    "options": [
+      "sit",
+      "sat",
+      "tap"
+    ],
+    "answerIndex": 1,
+    "explanation": "s-a-t waa sat. Dhexda waxaa yaal a; haddii dhexdu i noqoto waxay noqonaysaa sit."
+  },
+  {
+    "id": "en_e1_05",
+    "lang": "en",
+    "level": 1,
+    "question": "Kee baa dhawaaq aan Af Soomaaliga gabi ahaanba ku jirin?",
+    "options": [
+      "t",
+      "m",
+      "p"
+    ],
+    "answerIndex": 2,
+    "explanation": "Af Soomaaligu p ma laha. t iyo m labadaba way ku jiraan. Sidaas darteed p wuxuu u baahan yahay tababbar dheeraad ah."
+  },
+  {
+    "id": "en_e1_06",
+    "lang": "en",
+    "level": 1,
+    "question": "Marka aad dhahdo p, xaanshiga afkaaga hor yaal muxuu sameeyaa?",
+    "options": [
+      "Wuu dhaqaaqaa",
+      "Ma dhaqaaqo"
+    ],
+    "answerIndex": 0,
+    "explanation": "p waxay leedahay neef afka ka baxaya, sidaas darteed xaanshigu wuu dhaqaaqaa. b neef ma leh, xaanshiguna ma dhaqaaqo."
+  },
+  {
+    "id": "en_e1_07",
+    "lang": "en",
+    "level": 1,
+    "question": "Dhegayso: pin. Bilowgiisu waa kee?",
+    "options": [
+      "p",
+      "b"
+    ],
+    "answerIndex": 0,
+    "explanation": "pin waxay ku bilaabantaa p oo neef leh. bin waxay ku bilaabantaa b. Labadu waa laba eray oo kala duwan."
+  },
+  {
+    "id": "en_e1_08",
+    "lang": "en",
+    "level": 1,
+    "question": "Erayga Ingiriisiga ah dad macnihiisu waa?",
+    "options": [
+      "dad badan",
+      "aabbe",
+      "hooyo"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ingiriisiga dad waa aabbe. Af Soomaali dad waa qof badan — isku qoraal, laba af, laba macne."
+  },
+  {
+    "id": "en_e1_09",
+    "lang": "en",
+    "level": 1,
+    "question": "Erayga the sidee loo akhriyaa?",
+    "options": [
+      "Dhawaaq-dhawaaq baa la kala jaraa",
+      "Waa la eegaa oo si toos ah loo dhahaa"
+    ],
+    "answerIndex": 1,
+    "explanation": "the waa eray qarsoodi ah. Dhawaaq-dhawaaq lama kala jari karo, sidaas darteed waa la eegaa oo la xasuustaa."
+  },
+  {
+    "id": "en_e1_10",
+    "lang": "en",
+    "level": 1,
+    "question": "Erayga pot macnihiisu waa?",
+    "options": [
+      "dheri",
+      "koob",
+      "sariir"
+    ],
+    "answerIndex": 0,
+    "explanation": "pot waa dheri. cup waa koob, bed waa sariir."
+  },
+  {
+    "id": "en_e1_11",
+    "lang": "en",
+    "level": 1,
+    "question": "Ingiriisiga, xarafka c ee erayga cat wuxuu dhahaa?",
+    "options": [
+      "c sida Cabdi",
+      "s",
+      "k"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ingiriisiga c wuxuu badanaa dhahaa k. c-da Af Soomaaliga ee Cabdi waa mid ka duwan oo cunaha ka soo baxda."
+  },
+  {
+    "id": "en_e1_12",
+    "lang": "en",
+    "level": 1,
+    "question": "ck waa immisa dhawaaq?",
+    "options": [
+      "Hal dhawaaq",
+      "Laba dhawaaq"
+    ],
+    "answerIndex": 0,
+    "explanation": "ck waa laba xaraf oo hal dhawaaq oo keliya bixiya: k. Marka la dhufanayo hal mar oo keliya ayaa la dhuftaa."
+  },
+  {
+    "id": "en_e1_13",
+    "lang": "en",
+    "level": 1,
+    "question": "p-e-n oo la isku daray waa maxay?",
+    "options": [
+      "pin",
+      "pen",
+      "pan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dhexda waxaa yaal e, sidaas darteed waa pen oo ah qalin. Haddii dhexdu i noqoto waxay noqonaysaa pin."
+  },
+  {
+    "id": "en_e1_14",
+    "lang": "en",
+    "level": 1,
+    "question": "c-u-p oo la isku daray waa maxay?",
+    "options": [
+      "cap",
+      "cup",
+      "cop"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dhexda waxaa yaal u, sidaas darteed waa cup oo ah koob. Haddii dhexdu a noqoto waxay noqonaysaa cap oo ah koofiyad."
+  },
+  {
+    "id": "en_e1_15",
+    "lang": "en",
+    "level": 1,
+    "question": "Erayga I macnihiisu waa?",
+    "options": [
+      "maya",
+      "aniga",
+      "tag"
+    ],
+    "answerIndex": 1,
+    "explanation": "I waa aniga. no waa maya, go waa tag. Saddexduba waa erayo qarsoodi ah."
+  },
+  {
+    "id": "en_e1_16",
+    "lang": "en",
+    "level": 1,
+    "question": "Marka aad dhahdo vvv adigoo gacanta cunaha saaran, maxaad dareemaysaa?",
+    "options": [
+      "Gariir",
+      "Waxba"
+    ],
+    "answerIndex": 0,
+    "explanation": "v waa dhawaaq cod leh, sidaas darteed cunahu wuu gariiraa. f cod ma leh, gariirna ma jiro."
+  },
+  {
+    "id": "en_e1_17",
+    "lang": "en",
+    "level": 1,
+    "question": "Dhegayso: zip. Bilowgiisu waa kee?",
+    "options": [
+      "s",
+      "z"
+    ],
+    "answerIndex": 1,
+    "explanation": "zip waxay ku bilaabantaa z oo cod leh. sip waxay ku bilaabantaa s oo cod la'aan ah. Af Soomaaligu z ma laha."
+  },
+  {
+    "id": "en_e1_18",
+    "lang": "en",
+    "level": 1,
+    "question": "Kee baa dhawaaqiisu Af Soomaaliga iyo Ingiriisiga isku mid ku yahay?",
+    "options": [
+      "v",
+      "z",
+      "sh"
+    ],
+    "answerIndex": 2,
+    "explanation": "sh-du Af Soomaaliga shaah waa isla sh-da Ingiriisiga shop. Laakiin v iyo z Af Soomaali ma jiraan."
+  },
+  {
+    "id": "en_e1_19",
+    "lang": "en",
+    "level": 1,
+    "question": "Erayga fish waa immisa dhawaaq?",
+    "options": [
+      "Saddex: f - i - sh",
+      "Afar: f - i - s - h"
+    ],
+    "answerIndex": 0,
+    "explanation": "sh waa laba xaraf oo hal dhawaaq bixiya, sidaas darteed fish waa saddex dhawaaq oo keliya."
+  },
+  {
+    "id": "en_e2_01",
+    "lang": "en",
+    "level": 2,
+    "question": "Ingiriisiga, laba xarafka ee ee maxay dhahaan?",
+    "options": [
+      "e dheer, sida Af Soomaali",
+      "ii, sida feet",
+      "a gaaban"
+    ],
+    "answerIndex": 1,
+    "explanation": "Af Soomaali ee waa e dheer, laakiin Ingiriisiga ee wuxuu dhahaa ii: feet, see, week. Kani waa dabinka ugu badan ee soo wajaha ardayda Soomaalida."
+  },
+  {
+    "id": "en_e2_02",
+    "lang": "en",
+    "level": 2,
+    "question": "Erayga book sidee loogu dhawaaqaa?",
+    "options": [
+      "buk — oo gaaban",
+      "boook — o dheer",
+      "baak"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ingiriisiga oo waligiis ma dhaho o. book waa oo gaaban (buk); moon waa oo dheer (muun)."
+  },
+  {
+    "id": "en_e2_03",
+    "lang": "en",
+    "level": 2,
+    "question": "Erayga hand waa immisa dhawaaq?",
+    "options": [
+      "Saddex: h - a - n",
+      "Laba: ha - nd",
+      "Afar: h - a - n - d"
+    ],
+    "answerIndex": 2,
+    "explanation": "n iyo d labaduba waa in la maqlaa. Haddii d lumo, wuxuu noqonayaa han oo aan macne lahayn."
+  },
+  {
+    "id": "en_e2_04",
+    "lang": "en",
+    "level": 2,
+    "question": "Xarafka x ee erayga six maxuu dhahaa?",
+    "options": [
+      "k-s",
+      "x sida Xasan",
+      "s keliya"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ingiriisiga x wuxuu sitaa laba dhawaaq: k iyo s. x-da Af Soomaaliga ee Xasan waa dhawaaq kale oo gebi ahaanba duwan."
+  },
+  {
+    "id": "en_e2_05",
+    "lang": "en",
+    "level": 2,
+    "question": "Erayga sing waa immisa dhawaaq?",
+    "options": [
+      "Afar: s - i - n - g",
+      "Saddex: s - i - ng",
+      "Laba: si - ng"
+    ],
+    "answerIndex": 1,
+    "explanation": "ng waa laba xaraf oo hal dhawaaq bixiya, dhawaaqaasna wuxuu ka soo baxaa sanka."
+  },
+  {
+    "id": "en_e2_06",
+    "lang": "en",
+    "level": 2,
+    "question": "Erayga she macnihiisu waa?",
+    "options": [
+      "annaga",
+      "iyada",
+      "isaga"
+    ],
+    "answerIndex": 1,
+    "explanation": "he waa isaga, she waa iyada, we waa annaga. Afartaba way ku dhammaadaan dhawaaqa ii."
+  },
+  {
+    "id": "en_e2_07",
+    "lang": "en",
+    "level": 2,
+    "question": "Sidee loo bilaabaa erayga stop?",
+    "options": [
+      "istop — i hore",
+      "sitop",
+      "stop — s iyo t isku dheg"
+    ],
+    "answerIndex": 2,
+    "explanation": "Af Soomaali eray ma bilaabmo laba shibbane, sidaas darteed afku wuxuu doonayaa inuu shaqal dhex geliyo. Si tartiib ah u dheh sss-top, kadibna stop."
+  },
+  {
+    "id": "en_e2_08",
+    "lang": "en",
+    "level": 2,
+    "question": "Geela Ingiriisiga waxaa loo yaqaan?",
+    "options": [
+      "cow",
+      "goat",
+      "camel"
+    ],
+    "answerIndex": 2,
+    "explanation": "camel waa geel, cow waa sac, goat-na waa ri."
+  },
+  {
+    "id": "en_e2_09",
+    "lang": "en",
+    "level": 2,
+    "question": "Jumladda They are big macneheedu waa maxay?",
+    "options": [
+      "Iyagu waa waaweyn yihiin",
+      "Adigu waad weyn tahay",
+      "Annagu waan weyn nahay"
+    ],
+    "answerIndex": 0,
+    "explanation": "they waa iyaga, are-na waa waa (marka ay badan yihiin)."
+  },
+  {
+    "id": "en_e2_10",
+    "lang": "en",
+    "level": 2,
+    "question": "Erayga night waa immisa dhawaaq?",
+    "options": [
+      "Shan: n - i - g - h - t",
+      "Saddex: n - igh - t",
+      "Afar: n - i - gh - t"
+    ],
+    "answerIndex": 1,
+    "explanation": "igh waa saddex xaraf oo hal dhawaaq oo keliya bixiya, sidaas darteed night waa saddex dhawaaq."
+  },
+  {
+    "id": "en_e2_11",
+    "lang": "en",
+    "level": 2,
+    "question": "Sheekadii Hodan, muxuu aabbaheed ka soo iibsaday dukaanka?",
+    "options": [
+      "boorso cas",
+      "caano",
+      "kalluun weyn"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sheekadu waxay tidhi: Dad has a big fish. Boorsada cas waxaa lagu riday kalluunka."
+  },
+  {
+    "id": "en_e2_12",
+    "lang": "en",
+    "level": 2,
+    "question": "Jimcaha Ingiriisiga waxaa loo yaqaan?",
+    "options": [
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "answerIndex": 0,
+    "explanation": "Friday waa Jimcaha. Toddobada maalmoodba way ku dhammaadaan day, waxayna ku bilaabmaan xaraf weyn."
+  },
+  {
+    "id": "en_e3_01",
+    "lang": "en",
+    "level": 3,
+    "question": "Middee baa jumlad Ingiriisi ah oo sax ah?",
+    "options": [
+      "My sister a book reads.",
+      "A book my sister reads.",
+      "My sister reads a book."
+    ],
+    "answerIndex": 2,
+    "explanation": "Ingiriisiga nidaamku waa yaa - falka - maxaa. Af Soomaali falku dhammaadka ayuu ku jiraa, taasina waa sababta khaladku u dhaco."
+  },
+  {
+    "id": "en_e3_02",
+    "lang": "en",
+    "level": 3,
+    "question": "Buuxi: I have got ___ egg.",
+    "options": [
+      "an",
+      "a",
+      "the"
+    ],
+    "answerIndex": 0,
+    "explanation": "egg wuxuu ku bilaabmaa dhawaaq shaqal ah, sidaas darteed an ayaa la isticmaalaa."
+  },
+  {
+    "id": "en_e3_03",
+    "lang": "en",
+    "level": 3,
+    "question": "Erayga box wadarkiisu waa?",
+    "options": [
+      "boxs",
+      "boxes",
+      "boxies"
+    ],
+    "answerIndex": 1,
+    "explanation": "Marka eraygu ku dhammaado s, x, ch ama sh, es ayaa la daraa: buses, boxes, dishes."
+  },
+  {
+    "id": "en_e3_04",
+    "lang": "en",
+    "level": 3,
+    "question": "Waxaan leeyahay laba ___ .",
+    "options": [
+      "foots",
+      "feets",
+      "feet"
+    ],
+    "answerIndex": 2,
+    "explanation": "foot wuxuu noqdaa feet. Waa wadar qaanuunka diida, sida man/men iyo child/children."
+  },
+  {
+    "id": "en_e3_05",
+    "lang": "en",
+    "level": 3,
+    "question": "Buuxi: My brother ___ tea every morning.",
+    "options": [
+      "drinks",
+      "drink",
+      "drinking"
+    ],
+    "answerIndex": 0,
+    "explanation": "My brother waa he, sidaas darteed falku wuxuu qaataa s: drinks. I, you, we iyo they s ma qaataan."
+  },
+  {
+    "id": "en_e3_06",
+    "lang": "en",
+    "level": 3,
+    "question": "Middee baa Ingiriisi ku sax ah?",
+    "options": [
+      "a cat black",
+      "two blacks cats",
+      "a black cat"
+    ],
+    "answerIndex": 2,
+    "explanation": "Sifadu magaca hortiis bay tagtaa, weligeedna wadar ma noqoto: two black cats."
+  },
+  {
+    "id": "en_e3_07",
+    "lang": "en",
+    "level": 3,
+    "question": "Buuxi: A camel is ___ than a goat.",
+    "options": [
+      "biggest",
+      "bigger",
+      "more big"
+    ],
+    "answerIndex": 1,
+    "explanation": "Marka laba shay la isbarbar dhigo waxaa la isticmaalaa -er iyo than. -est waxaa loo isticmaalaa marka mid dhammaan laga sarreeyo."
+  },
+  {
+    "id": "en_e3_08",
+    "lang": "en",
+    "level": 3,
+    "question": "Bisaddu waxay ku jirtaa sariirta hoosteeda. Buuxi: The cat is ___ the bed.",
+    "options": [
+      "on",
+      "behind",
+      "under"
+    ],
+    "answerIndex": 2,
+    "explanation": "under waa hoosta, on waa dusha, behind-na waa gadaasha."
+  },
+  {
+    "id": "en_e3_09",
+    "lang": "en",
+    "level": 3,
+    "question": "Buuxi: Yesterday the children ___ at the farm.",
+    "options": [
+      "were",
+      "was",
+      "are"
+    ],
+    "answerIndex": 0,
+    "explanation": "the children waa wax badan, sidaas darteed were. was waxaa loo isticmaalaa hal shay."
+  },
+  {
+    "id": "en_e3_10",
+    "lang": "en",
+    "level": 3,
+    "question": "Erayga cooked dhammaadkiisa waa dhawaaqee?",
+    "options": [
+      "id — cookid",
+      "d — cookd",
+      "t — cookt"
+    ],
+    "answerIndex": 2,
+    "explanation": "k waa dhawaaq cod la'aan ah, sidaas darteed -ed wuxuu dhahaa t. id waxaa lagu daraa kaliya kadib t ama d, sida wanted."
+  },
+  {
+    "id": "en_e3_11",
+    "lang": "en",
+    "level": 3,
+    "question": "Buuxi: Yesterday I ___ to the masjid.",
+    "options": [
+      "goed",
+      "went",
+      "gone"
+    ],
+    "answerIndex": 1,
+    "explanation": "go wuxuu noqdaa went. Waa fal qaanuunka diida, sida see/saw iyo eat/ate."
+  },
+  {
+    "id": "en_e3_12",
+    "lang": "en",
+    "level": 3,
+    "question": "Su'aasha Why are you late? jawaabteedu waxay ku bilaabantaa?",
+    "options": [
+      "Because...",
+      "On...",
+      "Yes, I do..."
+    ],
+    "answerIndex": 0,
+    "explanation": "why waxay weydiinaysaa sababta, jawaabtuna waxay ku bilaabmaa because. On waxaa loo isticmaalaa maalmaha: On Friday."
+  },
+  {
+    "id": "en_e3_13",
+    "lang": "en",
+    "level": 3,
+    "question": "Su'aalaha haa iyo maya, codku dhammaadka muxuu sameeyaa?",
+    "options": [
+      "Wuu hoos u dhacaa",
+      "Ma isbeddelo",
+      "Wuu kor u kacaa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Codku kor buu u kacaa. Haddii uu hoos u dhaco, dhegaystuhu wuxuu u qaadanayaa war, ma aha su'aal."
+  },
+  {
+    "id": "en_e3_14",
+    "lang": "en",
+    "level": 3,
+    "question": "Sheekadii Naciima, yaa fasalka ku soo dhoweeyay?",
+    "options": [
+      "Guuleed",
+      "Maryan",
+      "Macallinka"
+    ],
+    "answerIndex": 1,
+    "explanation": "Maryan ayaa u timid oo tidhi: Hello. My name is Maryan. Guuleed waa walaalkeed oo dugsiga geeyay."
+  },
+  {
+    "id": "en_e3_15",
+    "lang": "en",
+    "level": 3,
+    "question": "Buuxi: I wanted to play ___ it was raining.",
+    "options": [
+      "and",
+      "because",
+      "but"
+    ],
+    "answerIndex": 2,
+    "explanation": "Labada qaybood way is diidayaan, sidaas darteed but. and waxaa la isticmaalaa marka ay isku raacaan, because-na marka sabab la sheegayo."
+  },
+  {
+    "id": "en_e3_16",
+    "lang": "en",
+    "level": 3,
+    "question": "Erayga banana qaybtee baa xoogga leh?",
+    "options": [
+      "Qaybta koowaad: BA-na-na",
+      "Qaybta dhexe: ba-NA-na",
+      "Qayb kasta waa isku xoog"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ingiriisiga eray kastaa wuxuu leeyahay hal qayb oo xoog leh; qaybaha kale shaqalkoodu wuu dabcaa. Af Soomaali qayb kastaa isku cabbir bay leedahay."
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "id": "axaad_e1_01",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Xadiisku waa hadalka kuma?",
+    "options": [
+      "Ayeeyo",
+      "Nebi Muxammad ﷺ",
+      "Macallinka dugsiga"
+    ],
+    "answerIndex": 1,
+    "explanation": "Xadiis waa hadal Nebi Muxammad ﷺ yidhi ama wax uu sameeyay. Qur'aanku waa hadalka Alle."
+  },
+  {
+    "id": "axaad_e1_02",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Yaa Nebiga ﷺ arkay oo xadiiska xifdiyay?",
+    "options": [
+      "Saxaabigii",
+      "Deriska",
+      "Martida"
+    ],
+    "answerIndex": 0,
+    "explanation": "Saxaabi waa qof Nebiga ﷺ arkay oo rumeeyay, sida Abuu Hurayrah. Isagaa xadiiska xifdiyay."
+  },
+  {
+    "id": "axaad_e1_03",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Kee baa kitaab xadiis ah?",
+    "options": [
+      "Buugga sawirrada",
+      "Qoraalka dugsiga",
+      "Bukhaari"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bukhaari iyo Muslim waa labada kitaab ee ugu caansan xadiiska."
+  },
+  {
+    "id": "axaad_e1_04",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Maxaan nidhaahnaa ka hor inta aynaan cuntada cunin?",
+    "options": [
+      "Nabad gelyo",
+      "Bismillaah",
+      "Waxba"
+    ],
+    "answerIndex": 1,
+    "explanation": "Nebigu ﷺ wuxuu wiilkii yar ku yidhi: sammillaah — magaca Alle ku bilow. (Bukhaari 5376 iyo Muslim 2022)"
+  },
+  {
+    "id": "axaad_e1_05",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Gacantee ayaan wax ku cunnaa?",
+    "options": [
+      "Bidix",
+      "Midig"
+    ],
+    "answerIndex": 1,
+    "explanation": "Xadiisku wuxuu leeyahay wa kul bi-yamiinik — gacanta midig ku cun."
+  },
+  {
+    "id": "axaad_e1_06",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Immisa jeer ayuu Nebigu ﷺ hooyo sheegay ka hor aabbe?",
+    "options": [
+      "Hal mar",
+      "Toban jeer",
+      "Saddex jeer"
+    ],
+    "answerIndex": 2,
+    "explanation": "Wuxuu yidhi: hooyadaa, hooyadaa, hooyadaa, dabadeedna aabbahaa. (Bukhaari 5971 iyo Muslim 2548)"
+  },
+  {
+    "id": "axaad_e1_07",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Daahirnimadu waa immisa iimaanka?",
+    "options": [
+      "Nus",
+      "Dhan",
+      "Waxba"
+    ],
+    "answerIndex": 0,
+    "explanation": "At-tuhuuru shatrul-iimaan — daahirnimadu waa nus iimaanka. (Muslim 223)"
+  },
+  {
+    "id": "axaad_e1_08",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Dhoola-cadeyntaadu waa maxay?",
+    "options": [
+      "Ciyaar",
+      "Cunto",
+      "Sadaqo"
+    ],
+    "answerIndex": 2,
+    "explanation": "Tabassumuka fii wajhi akhiika laka sadaqah — dhoola-cadeyntaadu waa sadaqo. (Tirmidhi 1956)"
+  },
+  {
+    "id": "axaad_e1_09",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Haddaad dhagax ama qodax jidka ka qaaddo, maxay noqonaysaa?",
+    "options": [
+      "Ciyaar",
+      "Sadaqo",
+      "Waxba"
+    ],
+    "answerIndex": 1,
+    "explanation": "Isla xadiiskii dhoola-cadeynta ayaa leh: dhibaatada jidka ka qaadiddaadu waa sadaqo. (Tirmidhi 1956)"
+  },
+  {
+    "id": "axaad_e1_10",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Marka hadalkaagu wanaagsanayn, maxaad samaynaysaa?",
+    "options": [
+      "Waan qaylinayaa",
+      "Cod dheer ayaan ku odhanayaa",
+      "Waan aamusayaa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Falyaqul khayran aw liyasmut — ha yidhaahdo wanaag ama ha aamuso. (Bukhaari 6018 iyo Muslim 47)"
+  },
+  {
+    "id": "axaad_e1_11",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Kee baa deriska dhibaya?",
+    "options": [
+      "Salaan",
+      "Habeenkii si dheer u qaylin",
+      "Cunto la wadaagid"
+    ],
+    "answerIndex": 1,
+    "explanation": "Falaa yu'dhi jaarah — deriskiisa yuusan dhibin. Buuqu wuxuu ka hor istaagaa hurdadooda."
+  },
+  {
+    "id": "axaad_e1_12",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Marka marti gurigiinna timaaddo, maxaad samaynaysaa?",
+    "options": [
+      "Waan soo dhawaynayaa oo fadhi baan siinayaa",
+      "Waan iska daynayaa",
+      "Qolkayga ayaan galayaa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Falyukrim dayfah — martidiisa ha sharfo. (Bukhaari 6018 iyo Muslim 47)"
+  },
+  {
+    "id": "axaad_e1_13",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Qofka aan naxariisan maxaa ku dhacaya?",
+    "options": [
+      "Wax walba wuu helayaa",
+      "Lama naxariisto",
+      "Waxba ma dhacayaan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Man laa yarham laa yurham — qofka aan naxariisan lama naxariisto. (Bukhaari 5997 iyo Muslim 2318)"
+  },
+  {
+    "id": "axaad_e1_14",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Bisad gaajaysan ayaa albaabka joogta. Maxaad samaynaysaa?",
+    "options": [
+      "Dhagax baan ku tuurayaa",
+      "Waan eryayaa anigoo qaylinaya",
+      "Cunto yar baan siinayaa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ar-raahimuuna yarhamuhumur-Rahmaan — kuwa naxariista, Raxmaan baa u naxariista. (Tirmidhi 1924)"
+  },
+  {
+    "id": "axaad_e1_15",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Labada shay ee xadiisku sheegay in dadku ka nabad galaan waa carrabka iyo maxay?",
+    "options": [
+      "Cagta",
+      "Gacanta",
+      "Indhaha"
+    ],
+    "answerIndex": 1,
+    "explanation": "Al-muslimu man salimal-muslimuuna min lisaanihi wa yadih — carrabkiisa iyo gacantiisa. (Bukhaari 10 iyo Muslim 40)"
+  },
+  {
+    "id": "axaad_e1_16",
+    "lang": "axaad",
+    "level": 1,
+    "question": "Laba canjeero ayaa saxanka yaal: mid weyn iyo mid yar. Xadiisku maxuu ku leeyahay?",
+    "options": [
+      "Adigu tan weyn qaado",
+      "Midna ha siin",
+      "Walaalkaa sii tan aad adigu jeceshahay"
+    ],
+    "answerIndex": 2,
+    "explanation": "Laa yu'minu ahadukum hattaa yuhibba li-akhiihi maa yuhibbu li-nafsih — walaalkaa u jeclow waxaad naftaada u jeceshahay. (Bukhaari 13 iyo Muslim 45)"
+  },
+  {
+    "id": "axaad_e2_01",
+    "lang": "axaad",
+    "level": 2,
+    "question": "Xadiiska ugu horreeya kitaabka Bukhari waa kee?",
+    "options": [
+      "Buniyal-islaamu calaa khams",
+      "Innamal-acmaalu bin-niyyaat",
+      "Ad-diinun-nasiixah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Xadiiska niyadaha — Bukhari 1, wuxuu weriyay Cumar bin Al-Khaddaab."
+  },
+  {
+    "id": "axaad_e2_02",
+    "lang": "axaad",
+    "level": 2,
+    "question": "\"Innamal-acmaalu bin-niyyaat\" macnihiisu waa?",
+    "options": [
+      "Salaaddu waa waajib",
+      "Camalladu waxay ku xiran yihiin niyadaha",
+      "Runtu waa wanaag"
+    ],
+    "answerIndex": 1,
+    "explanation": "Camal kasta qiimihiisu wuxuu ku jiraa niyada qalbiga."
+  },
+  {
+    "id": "axaad_e2_03",
+    "lang": "axaad",
+    "level": 2,
+    "question": "Xadiiska Buniyal-islaam — Islaamka maxaa lagu mataley?",
+    "options": [
+      "Geed",
+      "Webi",
+      "Dhismo shan tiir leh"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bukhari 8, Muslim 16: Islaamka waxaa lagu dhisay shan."
+  },
+  {
+    "id": "axaad_e2_04",
+    "lang": "axaad",
+    "level": 2,
+    "question": "Ninkii dharka cadcad ee su'aalaha weydiiyay yuu ahaa?",
+    "options": [
+      "Saxaabi",
+      "Socoto",
+      "Jibriil"
+    ],
+    "answerIndex": 2,
+    "explanation": "Muslim 8: kaasi waa Jibriil — wuxuu idiin yimid inuu diintiinna idin baro."
+  },
+  {
+    "id": "axaad_e2_05",
+    "lang": "axaad",
+    "level": 2,
+    "question": "Waa maxay Ixsaanku?",
+    "options": [
+      "Inaad lacag bixiso",
+      "Inaad Alle u caabuddo sida adiga oo arka — isaguna wuu ku arkaa",
+      "Inaad dadka hor tukatid"
+    ],
+    "answerIndex": 1,
+    "explanation": "Jawaabta saddexaad ee xadiiska Jibriil (Muslim 8)."
+  },
+  {
+    "id": "axaad_e2_06",
+    "lang": "axaad",
+    "level": 2,
+    "question": "Xadiiska Nucmaan bin Bashiir — maxaa u dhexeeya xalaasha iyo xaraanta?",
+    "options": [
+      "Waxba",
+      "Waxyaabo shaki leh (shubuhaat)",
+      "Lacag"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bukhari 52: dhexdooda waxaa ah waxyaabo isku shabahsan — kan iska ilaaliya, diintiisa ayuu dhawray."
+  },
+  {
+    "id": "axaad_e2_07",
+    "lang": "axaad",
+    "level": 2,
+    "question": "\"Ad-diinun-nasiixah\" — diintu waa maxay?",
+    "options": [
+      "Salaad keliya",
+      "Naseexo (daacadnimo iyo wanaag-doonis)",
+      "Soon keliya"
+    ],
+    "answerIndex": 1,
+    "explanation": "Muslim 55 — shan qaybood: Alle, kitaabkiisa, rasuulkiisa, hoggaamiyayaasha iyo guudka muslimiinta."
+  },
+  {
+    "id": "axaad_e2_08",
+    "lang": "axaad",
+    "level": 2,
+    "question": "Quruxda Islaamka qofku waa?",
+    "options": [
+      "Dharkiisa quruxda badan",
+      "Inuu ka tago waxa aan isaga khusayn",
+      "Guri weyn"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tirmidhi 2317 (xasan): min xusni islaamil-mar'i tarkuhu maa laa yacniih."
+  },
+  {
+    "id": "axaad_e2_09",
+    "lang": "axaad",
+    "level": 2,
+    "question": "Labada magac ee xadiiska runta: run-sheegaha iyo beenaalaha joogtada ah?",
+    "options": [
+      "Caalim iyo jaahil",
+      "Amiin iyo khaa'in",
+      "Siddiiq iyo kadhdhaab"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bukhari 6094: runta ku dadaashadu Siddiiq, beenta ku dadaashadu kadhdhaab."
+  },
+  {
+    "id": "axaad_e2_10",
+    "lang": "axaad",
+    "level": 2,
+    "question": "Mu'minku mu'minka waa sida...?",
+    "options": [
+      "Buug",
+      "Dhismo — qaybtiisu qaybta kale way adkaysaa",
+      "Geed"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bukhari 481: kal-bunyaan — Nebigu ﷺ faruhuu isdhex geliyay markuu sheegayay."
+  },
+  {
+    "id": "axaad_e2_11",
+    "lang": "axaad",
+    "level": 2,
+    "question": "Saddexda xaq ee xadiiska Bukhari 6018 waa?",
+    "options": [
+      "Salaadda, soonka, zakada",
+      "Cuntada, hurdada, ciyaarta",
+      "Hadal khayr ah ama aamusnaan, deriska, martida"
+    ],
+    "answerIndex": 2,
+    "explanation": "Saddexduba waxay ku xiran yihiin: kan rumaysan Alle iyo maalinta dambe."
+  },
+  {
+    "id": "axaad_e2_12",
+    "lang": "axaad",
+    "level": 2,
+    "question": "Qofka hindhisa oo \"Alxamdulillaah\" yiraahda — maxaad ku tiraahdaa?",
+    "options": [
+      "Alxamdulillaah",
+      "Yarxamukallaah",
+      "Waxba"
+    ],
+    "answerIndex": 1,
+    "explanation": "Muslim 2162: mid ka mid ah lixda xaq — u ducee: Alle ha kuu naxariisto."
+  },
+  {
+    "id": "axaad_e2_13",
+    "lang": "axaad",
+    "level": 2,
+    "question": "\"Qul aamantu billaahi thumma...\" — dhammee.",
+    "options": [
+      "...seexo",
+      "...staqim (ku adkayso)",
+      "...aamus"
+    ],
+    "answerIndex": 1,
+    "explanation": "Muslim 38: dheh Alle waan rumeeyay, kaddibna istiqaamo — joogtee jidka toosan."
+  },
+  {
+    "id": "axaad_e3_01",
+    "lang": "axaad",
+    "level": 3,
+    "question": "Xadiiska qaybtiisa \"Waxaa ii sheegay Maalik, kana Naafic, kana Ibnu Cumar\" waa?",
+    "options": [
+      "Matnka",
+      "Sanadka",
+      "Sharaxa"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sanadku waa silsiladda weriyayaasha; matnku waa hadalka qudhiisa."
+  },
+  {
+    "id": "axaad_e3_02",
+    "lang": "axaad",
+    "level": 3,
+    "question": "Saddexda marxaladood ee xadiisku soo maray si uu inoo gaaro?",
+    "options": [
+      "Qorid, tirtirid, daabacid",
+      "Hurdo, safar, akhris",
+      "Xifdin, qorid, ururin"
+    ],
+    "answerIndex": 2,
+    "explanation": "Xusuusta asxaabta, qoriddii rasmiga ahayd, kaddibna ururintii kutubta."
+  },
+  {
+    "id": "axaad_e3_03",
+    "lang": "axaad",
+    "level": 3,
+    "question": "Darajada ugu sarreysa xadiiska waa?",
+    "options": [
+      "Daciif",
+      "Xasan",
+      "Saxiix"
+    ],
+    "answerIndex": 2,
+    "explanation": "Saxiix: sanad buuxa oo weriye kastaa run-sheege xafid wanaagsan yahay."
+  },
+  {
+    "id": "axaad_e3_04",
+    "lang": "axaad",
+    "level": 3,
+    "question": "Waa maxay xadiiska mawduuca?",
+    "options": [
+      "Xadiis gaaban",
+      "Been-abuur Nebiga ﷺ lagu sheegay — waa la diidaa",
+      "Xadiis dheer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Mawduucu waa hadal la sameeyay — faafintiisu waa dembi."
+  },
+  {
+    "id": "axaad_e3_05",
+    "lang": "axaad",
+    "level": 3,
+    "question": "\"Man kadhaba calayya mutacammidan...\" — kan si kas ah been Nebiga ﷺ ugu sheega, maxaa loogu goodiyay?",
+    "options": [
+      "Lacag buu bixinayaa",
+      "Waxba",
+      "Kursigiisa Naarta ha ka diyaarsado"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bukhari 110, Muslim 3 — xadiis mutawaatir ah."
+  },
+  {
+    "id": "axaad_e3_06",
+    "lang": "axaad",
+    "level": 3,
+    "question": "Imaam Bukhaari kitaabkiisa immisa sano buu ku qaatay?",
+    "options": [
+      "Hal sano",
+      "16 sano",
+      "Toddobaad"
+    ],
+    "answerIndex": 1,
+    "explanation": "16 sano — xadiis kasta ka horna weeso iyo laba rakco."
+  },
+  {
+    "id": "axaad_e3_07",
+    "lang": "axaad",
+    "level": 3,
+    "question": "\"Labada Saxiix\" waa kuwee?",
+    "options": [
+      "Tirmidhi iyo Nasaa'i",
+      "Bukhaari iyo Muslim",
+      "Abuu Daawuud iyo Ibnu Maajah"
+    ],
+    "answerIndex": 1,
+    "explanation": "Saxiixul-Bukhaari iyo Saxiix Muslim — kutubta ugu saxsan Qur'aanka kaddib."
+  },
+  {
+    "id": "axaad_e3_08",
+    "lang": "axaad",
+    "level": 3,
+    "question": "War baa kuu yimid. Su'aasha ugu horreysa ee hubinta waa?",
+    "options": [
+      "Immisa qof baa jecel?",
+      "Ma naxdin leh yahay?",
+      "Yaa sheegay — isha warka?"
+    ],
+    "answerIndex": 2,
+    "explanation": "Al-Xujuraat 6 iyo habka culimada xadiiska: isha warka ayaa la baaraa marka hore."
+  },
+  {
+    "id": "axaad_e3_09",
+    "lang": "axaad",
+    "level": 3,
+    "question": "\"Khayrukum man tacallamal-Qur'aana wa callamah\" — labada fal ee isku xiran waa?",
+    "options": [
+      "Akhriska iyo qorista",
+      "Barashada iyo baridda",
+      "Salaadda iyo soonka"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bukhari 5027: kan barta OO bara — darajada ugu sarreysa waa labada isku dar."
+  },
+  {
+    "id": "axaad_e3_10",
+    "lang": "axaad",
+    "level": 3,
+    "question": "Kan jid u mara cilmi-doonis, maxaa Alle u fududeeyaa?",
+    "options": [
+      "Lacag",
+      "Safar dheer",
+      "Jid Jannada ah"
+    ],
+    "answerIndex": 2,
+    "explanation": "Muslim 2699 — malaa'igtuna baalashooda bay u dhigaan cilmi-doonka."
+  },
+  {
+    "id": "axaad_e3_11",
+    "lang": "axaad",
+    "level": 3,
+    "question": "Saddexda camal ee aan go'in qofka dhintay kaddib waa?",
+    "options": [
+      "Guri, gaari, lacag",
+      "Sadaqo jaariya, cilmi la faa'iidaysto, ilmo saalix ah oo u ducaynaya",
+      "Salaad, soon, xaj"
+    ],
+    "answerIndex": 1,
+    "explanation": "Muslim 1631 — adiguna waxaad tahay qaybta saddexaad: ilmaha saalixa ah."
+  },
+  {
+    "id": "axaad_e3_12",
+    "lang": "axaad",
+    "level": 3,
+    "question": "Toddobada hooska Alle — qaybta dhallinyarada waa tee?",
+    "options": [
+      "Dhallinyaro ciyaar badan",
+      "Dhallinyaro hurdo badan",
+      "Dhallinyaro ku koray cibaadada Alle"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bukhari 660, Muslim 1031 — fursaddaada gaarka ah da'daadan."
+  }
+]

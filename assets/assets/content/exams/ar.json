@@ -1,0 +1,747 @@
+[
+  {
+    "id": "ar_e1_01",
+    "lang": "ar",
+    "level": 1,
+    "question": "Kee ka mid ah kuwan waa alif?",
+    "options": [
+      "ل",
+      "ا",
+      "م",
+      "ن"
+    ],
+    "answerIndex": 1,
+    "explanation": "Alif waa xariiqda toosan: ا. Laam way hoos u leexanaysaa."
+  },
+  {
+    "id": "ar_e1_02",
+    "lang": "ar",
+    "level": 1,
+    "question": "Xarafkee baa codkiisu yahay x-da erayga xoolo?",
+    "options": [
+      "ج",
+      "خ",
+      "ح",
+      "ه"
+    ],
+    "answerIndex": 2,
+    "explanation": "ح waa x-da Soomaaliga. Waa koobka aan dhibicda lahayn."
+  },
+  {
+    "id": "ar_e1_03",
+    "lang": "ar",
+    "level": 1,
+    "question": "Xarafkee baa codkiisu yahay kh-da erayga khamiis?",
+    "options": [
+      "خ",
+      "ح",
+      "غ",
+      "ق"
+    ],
+    "answerIndex": 0,
+    "explanation": "خ waa kh-da Soomaaliga — waa koobka dhibicda kor saaran tahay."
+  },
+  {
+    "id": "ar_e1_04",
+    "lang": "ar",
+    "level": 1,
+    "question": "Xarafkee baa codkiisu yahay c-da erayga caano?",
+    "options": [
+      "غ",
+      "ء",
+      "ح",
+      "ع"
+    ],
+    "answerIndex": 3,
+    "explanation": "ع waa c-da Soomaaliga. Dhexda cunaha ayay ka soo baxdaa."
+  },
+  {
+    "id": "ar_e1_05",
+    "lang": "ar",
+    "level": 1,
+    "question": "Xarafkee baa codkiisu yahay q-da erayga qalin?",
+    "options": [
+      "ك",
+      "ق",
+      "ف",
+      "خ"
+    ],
+    "answerIndex": 1,
+    "explanation": "ق waa q-da Soomaaliga — waa wareegga laba dhibic kor ku leh."
+  },
+  {
+    "id": "ar_e1_06",
+    "lang": "ar",
+    "level": 1,
+    "question": "Kee baa laba dhibic oo KOR ah leh?",
+    "options": [
+      "ب",
+      "ت",
+      "ث",
+      "ي"
+    ],
+    "answerIndex": 1,
+    "explanation": "ت waxay leedahay laba dhibic oo kore. ب hal dhibic hoos, ث saddex dhibic kor, ي laba dhibic hoos."
+  },
+  {
+    "id": "ar_e1_07",
+    "lang": "ar",
+    "level": 1,
+    "question": "Kee baa hal dhibic oo HOOS ah leh?",
+    "options": [
+      "ت",
+      "ن",
+      "ب",
+      "ث"
+    ],
+    "answerIndex": 2,
+    "explanation": "ب waxay leedahay hal dhibic oo hoos ah. ن hal dhibic oo kor ah."
+  },
+  {
+    "id": "ar_e1_08",
+    "lang": "ar",
+    "level": 1,
+    "question": "Marka aad ku dhahayso ث, xaggee baad carrabkaaga dhigtaa?",
+    "options": [
+      "Ilkaha hore dhexdooda",
+      "Bushimaha",
+      "Cunaha hoose",
+      "Sanka"
+    ],
+    "answerIndex": 0,
+    "explanation": "Caarada carrabka ilkaha hore dhexdooda ayaad dhigtaa. Sidaas ayaan uga soocaynaa s."
+  },
+  {
+    "id": "ar_e1_09",
+    "lang": "ar",
+    "level": 1,
+    "question": "Xarafka ض ma waa dh-da Soomaaliga sida erayga dhagax?",
+    "options": [
+      "Haa, waa isku mid",
+      "Maya — ض waa d oo culus",
+      "Waa z",
+      "Waa s"
+    ],
+    "answerIndex": 1,
+    "explanation": "Maya. ض waa d oo culus: dhinaca carrabka ayaa ilkaha sare ku dhegaya. dh-da Soomaaliga waa cod kale oo gebi ahaanba ah."
+  },
+  {
+    "id": "ar_e1_10",
+    "lang": "ar",
+    "level": 1,
+    "question": "Kee ka mid ah kuwan waa xarafka CULUS?",
+    "options": [
+      "س",
+      "ص",
+      "ت",
+      "ن"
+    ],
+    "answerIndex": 1,
+    "explanation": "ص waa s oo culus — afka buuxi oo carrabka hoos u dhig. س waa fudud."
+  },
+  {
+    "id": "ar_e1_11",
+    "lang": "ar",
+    "level": 1,
+    "question": "غ iyo خ maxaa kala saara?",
+    "options": [
+      "غ waa cod leh, cunuhu wuu gariiraa",
+      "Waa isku mid",
+      "غ waa fudud, خ waa culus",
+      "خ dhibic ma laha"
+    ],
+    "answerIndex": 0,
+    "explanation": "خ waa neef keliya; غ waa neef iyo cod. Gacanta cunaha saar oo waad dareemi doontaa gariirka غ."
+  },
+  {
+    "id": "ar_e1_12",
+    "lang": "ar",
+    "level": 1,
+    "question": "Immisa xaraf ayay alifbeetada Carabigu leedahay?",
+    "options": [
+      "22",
+      "26",
+      "28",
+      "30"
+    ],
+    "answerIndex": 2,
+    "explanation": "Waa 28 xaraf, laga bilaabo ا ilaa ي."
+  },
+  {
+    "id": "ar_e1_13",
+    "lang": "ar",
+    "level": 1,
+    "question": "Fatxadu xaggee bay ka taallaa xarafka?",
+    "options": [
+      "KOR",
+      "HOOS",
+      "Dhinaca midig",
+      "Gudaha"
+    ],
+    "answerIndex": 0,
+    "explanation": "Fatxadu had iyo jeer xarafka way ka sarraysaa, waxayna keentaa codka a."
+  },
+  {
+    "id": "ar_e1_14",
+    "lang": "ar",
+    "level": 1,
+    "question": "بَ waa maxay?",
+    "options": [
+      "bi",
+      "bu",
+      "ba",
+      "b"
+    ],
+    "answerIndex": 2,
+    "explanation": "ب oo fatxo leh waa ba. Fatxadu waxay keentaa codka a."
+  },
+  {
+    "id": "ar_e1_15",
+    "lang": "ar",
+    "level": 1,
+    "question": "بِ waa maxay?",
+    "options": [
+      "bi",
+      "ba",
+      "bu",
+      "ab"
+    ],
+    "answerIndex": 0,
+    "explanation": "Xariiqda HOOS waa kasro, waxayna keentaa codka i — بِ = bi."
+  },
+  {
+    "id": "ar_e1_16",
+    "lang": "ar",
+    "level": 1,
+    "question": "Codka u waxaa keena calaamaddee?",
+    "options": [
+      "Kasrada — xariiq hoos ah",
+      "Fatxada — xariiq kor ah",
+      "Dammada — waaw yar oo kor ah",
+      "Dhibicda"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dammadu waa waaw yar oo xarafka kor saaran, waxayna keentaa codka u — بُ = bu."
+  },
+  {
+    "id": "ar_e1_17",
+    "lang": "ar",
+    "level": 1,
+    "question": "Xarafkee baa gacan ka qabsan waayay xarafka ka dambeeya?",
+    "options": [
+      "ب",
+      "س",
+      "د",
+      "ت"
+    ],
+    "answerIndex": 2,
+    "explanation": "Lix xaraf ayaa gacan qabsan waaya: ا د ذ ر ز و. Kuwa kalena way wada xirmaan."
+  },
+  {
+    "id": "ar_e1_18",
+    "lang": "ar",
+    "level": 1,
+    "question": "Erayga خَلَقَ micnihiisu waa maxay?",
+    "options": [
+      "Wuu qoray",
+      "Wuu abuuray",
+      "Wuu sameeyay",
+      "Wuu akhriyay"
+    ],
+    "answerIndex": 1,
+    "explanation": "خَلَقَ waxay ka dhigan tahay wuu abuuray. كَتَبَ waa wuu qoray, جَعَلَ waa wuu sameeyay."
+  },
+  {
+    "id": "ar_e1_19",
+    "lang": "ar",
+    "level": 1,
+    "question": "Erayga Carabiga ah, dhinacee ayaa laga bilaabaa akhriska?",
+    "options": [
+      "Midig",
+      "Bidix",
+      "Dhexda",
+      "Hoosta"
+    ],
+    "answerIndex": 0,
+    "explanation": "Carabiga midig ayaa laga bilaabaa — kadibna bidix loo socdaa."
+  },
+  {
+    "id": "ar_e1_20",
+    "lang": "ar",
+    "level": 1,
+    "question": "لا waa maxay?",
+    "options": [
+      "Hal xaraf oo cusub",
+      "Laba xaraf: ل iyo ا",
+      "Calaamad cod ah",
+      "Dhibic"
+    ],
+    "answerIndex": 1,
+    "explanation": "لا waa ل iyo ا oo gacan is haya. Xaraf cusub ma ahan."
+  },
+  {
+    "id": "ar_e1_21",
+    "lang": "ar",
+    "level": 1,
+    "question": "Marka xarafyadu eray isugu xirmaan, maxaa dhaca?",
+    "options": [
+      "Sawirku wax yar wuu is beddelaa, dhibicduna way sii jirtaa",
+      "Dhibicdu way tagtaa",
+      "Waxay noqdaan xaraf cusub",
+      "Waxba ma beddelmaan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Xarafku saddex meelood ayuu leeyahay: bilow, dhex, dhammaad. Sawirku waa is beddelaa laakiin dhibicda iyo codku way sii jiraan."
+  },
+  {
+    "id": "ar_e1_22",
+    "lang": "ar",
+    "level": 1,
+    "question": "Erayga باب micnihiisu waa maxay?",
+    "options": [
+      "Buug",
+      "Albaab",
+      "Bariis",
+      "Biyo"
+    ],
+    "answerIndex": 1,
+    "explanation": "باب waa albaab. Waa saddex xaraf: ب ا ب — Soomaaliduna waxay tidhaahdaa albaab."
+  },
+  {
+    "id": "ar_e1_23",
+    "lang": "ar",
+    "level": 1,
+    "question": "Fatxada, kasrada iyo dammada ma la fidiyaa?",
+    "options": [
+      "Haa — cod dheer ayaa laga dhigaa",
+      "Maya — waa deg-deg, lama fidiyo",
+      "Marmar",
+      "Kaliya fatxada"
+    ],
+    "answerIndex": 1,
+    "explanation": "Saddexduba waa deg-deg, sida sawir-qaade. Haddii la fidiyo, codku wuu dheeraadaa oo eraygu wuu beddelmaa."
+  },
+  {
+    "id": "ar_e1_24",
+    "lang": "ar",
+    "level": 1,
+    "question": "Immisa xaraf ayaa gacan ka qabsan waaya xarafka ka dambeeya?",
+    "options": [
+      "Afar",
+      "Lix",
+      "Sideed",
+      "Toban"
+    ],
+    "answerIndex": 1,
+    "explanation": "Waa lix: ا، د، ذ، ر، ز، و. Kuwa kalena way wada xirmaan."
+  },
+  {
+    "id": "ar_e2_01",
+    "lang": "ar",
+    "level": 2,
+    "question": "Calaamadda ـٌ (laba dammo) codkeedu waa maxay?",
+    "options": [
+      "-in",
+      "-an",
+      "-un",
+      "-aa"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dammo labanlaaban = un. Tusaale: وَلَدٌ = wa-la-dun."
+  },
+  {
+    "id": "ar_e2_02",
+    "lang": "ar",
+    "level": 2,
+    "question": "Tanwiinku muxuu ku darsadaa dhammaadka erayga?",
+    "options": [
+      "Cod m",
+      "Cod n oo sanka ka yimaada",
+      "Cod dheer",
+      "Waxba"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tanwiin waa nuun la maqlo laakiin aan la qorin. Codku sanka ayuu ka soo baxaa, waana la haystaa laba tiris."
+  },
+  {
+    "id": "ar_e2_03",
+    "lang": "ar",
+    "level": 2,
+    "question": "Immisa tiris baa madd-ka aasaasiga ah la haystaa?",
+    "options": [
+      "Laba tiris",
+      "Afar tiris",
+      "Lix tiris",
+      "Hal tiris"
+    ],
+    "answerIndex": 0,
+    "explanation": "Madd-ka aasaasiga ah waa laba tiris — mar walba isku mid, ha ka gaabin hana ka dhaafin."
+  },
+  {
+    "id": "ar_e2_04",
+    "lang": "ar",
+    "level": 2,
+    "question": "قَالَ iyo قَلَ maxaa kala saara?",
+    "options": [
+      "قَالَ waxaa ku jira madd alif — codku wuu dheer yahay, micnuhuna waa kale",
+      "Waa isku eray",
+      "قَلَ ayaa ka dheer"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sidii bad iyo baad ee Soomaaliga: cod dheer, eray kale. قَالَ waa 'wuu yidhi'."
+  },
+  {
+    "id": "ar_e2_05",
+    "lang": "ar",
+    "level": 2,
+    "question": "Xariiqda yar ee taagan ee ku taal هٰذَا macnaheedu waa maxay?",
+    "options": [
+      "Fatxo caadi ah",
+      "Sukuun",
+      "Shaddo",
+      "Alif la qarshay — cod dheer"
+    ],
+    "answerIndex": 3,
+    "explanation": "Waa alif aan la qorin. Marka la arko, laba tiris ayaa la haystaa: haa-dhaa, ma aha ha-dha."
+  },
+  {
+    "id": "ar_e2_06",
+    "lang": "ar",
+    "level": 2,
+    "question": "قُلْ sidee baa loo akhriyaa?",
+    "options": [
+      "qulu",
+      "qul",
+      "quluu",
+      "qaal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sukuuntu waxay dhahaysaa: xarafkan cod ma leh. Marka waa qul — hal cod."
+  },
+  {
+    "id": "ar_e2_07",
+    "lang": "ar",
+    "level": 2,
+    "question": "Shanta xaraf ee qalqalah waxaa lagu xasuustaa weedhee?",
+    "options": [
+      "قُطْبُ جَدٍّ",
+      "يَرْمَلُونَ",
+      "خُصَّ ضَغْطٍ قِظْ"
+    ],
+    "answerIndex": 0,
+    "explanation": "قُطْبُ جَدٍّ = ق ط ب ج د. Marka ay aamusan yihiin bood yar ayay sameeyaan."
+  },
+  {
+    "id": "ar_e2_08",
+    "lang": "ar",
+    "level": 2,
+    "question": "بَيْتٌ sidee baa loo akhriyaa?",
+    "options": [
+      "bii-tun",
+      "bay-tun",
+      "buu-tun"
+    ],
+    "answerIndex": 1,
+    "explanation": "Fatxo ka hor yaa aamusan = layn (ay), ma aha madd. Marka waa bay-tun — guri."
+  },
+  {
+    "id": "ar_e2_09",
+    "lang": "ar",
+    "level": 2,
+    "question": "Shaddu micnaheedu waa maxay?",
+    "options": [
+      "Xarafku waa aamusan",
+      "Xarafku wuu fidayaa",
+      "Xarafku wuu boodayaa",
+      "Xarafkani waa laba xaraf"
+    ],
+    "answerIndex": 3,
+    "explanation": "Shadda hoosteeda waxaa jira laba xaraf: mid aamusan iyo mid calaamad wata — نَزَّلَ = naz-za-la."
+  },
+  {
+    "id": "ar_e2_10",
+    "lang": "ar",
+    "level": 2,
+    "question": "Erayga النَّاسُ, maxaa ku dhacay ل-ta ال?",
+    "options": [
+      "Si cad ayaa loo maqlaa",
+      "Lama maqlo — ن ayaa labanlaabantay",
+      "Waxay noqotay م"
+    ],
+    "answerIndex": 1,
+    "explanation": "ن waa xaraf qorrax. ل-ta lama maqlo, xarafka ka dambeeyana shaddo buu qaataa: an-naas."
+  },
+  {
+    "id": "ar_e2_11",
+    "lang": "ar",
+    "level": 2,
+    "question": "Taa marbuuta (ة) marka la joojiyo, sidee baa loo akhriyaa?",
+    "options": [
+      "Sida ه",
+      "Sida ت",
+      "Lama akhriyo"
+    ],
+    "answerIndex": 0,
+    "explanation": "Marka la joojiyo ه ayaa la akhriyaa (raxmah); marka la sii wado ت ayaa la akhriyaa (raxmatun)."
+  },
+  {
+    "id": "ar_e2_12",
+    "lang": "ar",
+    "level": 2,
+    "question": "Qof kuu yidhi السَّلَامُ عَلَيْكُمْ. Maxaad ku jawaabaysaa?",
+    "options": [
+      "شُكْرًا",
+      "عَفْوًا",
+      "وَعَلَيْكُمُ السَّلَامُ",
+      "نَعَمْ"
+    ],
+    "answerIndex": 2,
+    "explanation": "Salaanta waxaa lagu jawaabaa وَعَلَيْكُمُ السَّلَامُ — waana xaq uu Muslimku ku leeyahay Muslimka kale."
+  },
+  {
+    "id": "ar_e2_13",
+    "lang": "ar",
+    "level": 2,
+    "question": "أُمِّي micnaheedu waa maxay?",
+    "options": [
+      "Aabbahay",
+      "Walaashay",
+      "Hooyaday"
+    ],
+    "answerIndex": 2,
+    "explanation": "أُمّ waa hooyo; ي dhammaadka waxay ka dhigaysaa 'tayda' — أُمِّي = hooyaday."
+  },
+  {
+    "id": "ar_e3_01",
+    "lang": "ar",
+    "level": 3,
+    "question": "Immisa gobol baa makhraj-ku leeyahay?",
+    "options": [
+      "Saddex",
+      "Shan",
+      "Toban",
+      "Toddoba"
+    ],
+    "answerIndex": 1,
+    "explanation": "Shan gobol: الجوف، الحلق، اللسان، الشفتان، الخيشوم."
+  },
+  {
+    "id": "ar_e3_02",
+    "lang": "ar",
+    "level": 3,
+    "question": "خُصَّ ضَغْطٍ قِظْ waa weedh lagu xasuusto maxay?",
+    "options": [
+      "Xarafyada qalqalah",
+      "Xarafyada idghaam",
+      "Toddobada xaraf ee had iyo jeer culus",
+      "Xarafyada qorraxda"
+    ],
+    "answerIndex": 2,
+    "explanation": "خ ص ض غ ط ق ظ — dhammaantood carrabka ayaa kor u kaca (iṭbaaq), afkuna wuu buuxsamaa."
+  },
+  {
+    "id": "ar_e3_03",
+    "lang": "ar",
+    "level": 3,
+    "question": "أَنْعَمْتَ nuunteeda aamusan waa xeerkee?",
+    "options": [
+      "Iḍhaar",
+      "Idghaam",
+      "Iqlaab",
+      "Ikhfaa'"
+    ],
+    "answerIndex": 0,
+    "explanation": "ع waa mid ka mid ah lixda xaraf ee cunaha (ء ه ع ح غ خ) — nuunta si cad ayaa loo maqlaa."
+  },
+  {
+    "id": "ar_e3_04",
+    "lang": "ar",
+    "level": 3,
+    "question": "يَرْمَلُونَ waxay isugu keentaa xarafyada xeerkee?",
+    "options": [
+      "Iḍhaar",
+      "Ikhfaa'",
+      "Idghaam",
+      "Iqlaab"
+    ],
+    "answerIndex": 2,
+    "explanation": "ي ر م ل و ن — nuunta waa la baabi'iyaa, xarafka ka dambeeyana waa la labanlaabaa. ل iyo ر ghunnah ma laha."
+  },
+  {
+    "id": "ar_e3_05",
+    "lang": "ar",
+    "level": 3,
+    "question": "Iqlaab immisa xaraf buu leeyahay?",
+    "options": [
+      "Lix — kuwa cunaha",
+      "Hal — ب",
+      "Shan iyo toban",
+      "Afar"
+    ],
+    "answerIndex": 1,
+    "explanation": "ب oo keliya. Nuunta waxaa loo rogaa mim: مِنۢ بَعْدِ = mim-bacdi."
+  },
+  {
+    "id": "ar_e3_06",
+    "lang": "ar",
+    "level": 3,
+    "question": "مِن شَرِّ waa xeerkee?",
+    "options": [
+      "Idghaam",
+      "Iqlaab",
+      "Iḍhaar",
+      "Ikhfaa'"
+    ],
+    "answerIndex": 3,
+    "explanation": "ش ma aha mid ka mid ah lixda cunaha, يَرْمَلُونَ ama ب — marka waa ikhfaa': nuunta waa la qariyaa, ghunnah laba tiris."
+  },
+  {
+    "id": "ar_e3_07",
+    "lang": "ar",
+    "level": 3,
+    "question": "Mimta aamusan marka ب ka dambeeyo, waa xeerkee?",
+    "options": [
+      "Ikhfaa' shafawi",
+      "Iḍhaar shafawi",
+      "Idghaam mithlayn"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tusaale: تَرْمِيهِم بِحِجَارَةٍ. Bushimaha si fudud isugu dheji, ghunnahna laba tiris."
+  },
+  {
+    "id": "ar_e3_08",
+    "lang": "ar",
+    "level": 3,
+    "question": "الضَّالِّينَ immisa tiris baa loo haystaa?",
+    "options": [
+      "Laba",
+      "Afar",
+      "Lix",
+      "Hal"
+    ],
+    "answerIndex": 2,
+    "explanation": "Shaddo ayaa madd-ka ka dambaysa — waa madd laazim, lix tiris. Al-Faatixa dhammaadkeeda."
+  },
+  {
+    "id": "ar_e3_09",
+    "lang": "ar",
+    "level": 3,
+    "question": "Calaamadda لا ee Qur'aanka macnaheedu waa maxay?",
+    "options": [
+      "Joogso — waajib",
+      "Halkan ha joogsan",
+      "Adigaa dooranaya",
+      "Joogso ayaa fiican"
+    ],
+    "answerIndex": 1,
+    "explanation": "لا waa 'ha joogsan'. Haddii neeftu kaa dhammaato, dib u bilow eraygii hore."
+  },
+  {
+    "id": "ar_e3_10",
+    "lang": "ar",
+    "level": 3,
+    "question": "Waxaad la hadlaysaa gabar. Maxaad tidhaahdaa?",
+    "options": [
+      "أَنْتَ",
+      "هُوَ",
+      "أَنْتِ",
+      "نَحْنُ"
+    ],
+    "answerIndex": 2,
+    "explanation": "Gabar waa أَنْتِ (kasro); wiil waa أَنْتَ (fatxo). Isku xarafyo, laba calaamadood."
+  },
+  {
+    "id": "ar_e3_11",
+    "lang": "ar",
+    "level": 3,
+    "question": "تِلْكَ goorma ayaa la isticmaalaa?",
+    "options": [
+      "Shay dhow oo lab ah",
+      "Shay fog oo lab ah",
+      "Shay dhow oo dheddig ah",
+      "Shay fog oo dheddig ah"
+    ],
+    "answerIndex": 3,
+    "explanation": "Fog + dheddig = تِلْكَ. Fog + lab = ذٰلِكَ. Dhow + dheddig = هٰذِهِ."
+  },
+  {
+    "id": "ar_e3_12",
+    "lang": "ar",
+    "level": 3,
+    "question": "Jamaca كِتَاب waa maxay?",
+    "options": [
+      "كُتُب",
+      "كِتَابُونَ",
+      "أَكْتَاب"
+    ],
+    "answerIndex": 0,
+    "explanation": "كُتُب waa jamac la jebiyay — xarafyadu waa isku mid, calaamaduhu keliya ayaa beddelmay."
+  },
+  {
+    "id": "ar_e3_13",
+    "lang": "ar",
+    "level": 3,
+    "question": "كَمْ waa su'aashee?",
+    "options": [
+      "Halkee?",
+      "Goorma?",
+      "Immisa?",
+      "Sidee?"
+    ],
+    "answerIndex": 2,
+    "explanation": "كَمْ waa 'immisa'. Jawaabtiisu had iyo jeer waa tiro: كَمْ كِتَابًا؟ — ثَلَاثَة."
+  },
+  {
+    "id": "ar_e3_14",
+    "lang": "ar",
+    "level": 3,
+    "question": "الْبَيْتُ كَبِيرٌ — sidee baad u garanaysaa mawduuca (mubtada')?",
+    "options": [
+      "Waa erayga ال wata",
+      "Waa erayga tanwiinka wata",
+      "Waa erayga ugu dheer"
+    ],
+    "answerIndex": 0,
+    "explanation": "Mawduucu ال buu wataa (الْبَيْتُ); warku tanwiin buu wataa (كَبِيرٌ)."
+  },
+  {
+    "id": "ar_e3_15",
+    "lang": "ar",
+    "level": 3,
+    "question": "'Aniga waxaan akhrinayaa' Carabi sidee baa loo dhahaa?",
+    "options": [
+      "يَقْرَأُ",
+      "قَرَأَ",
+      "نَقْرَأُ",
+      "أَقْرَأُ"
+    ],
+    "answerIndex": 3,
+    "explanation": "Aniga waxaa loo isticmaalaa أَ: أَقْرَأُ. يَقْرَأُ waa 'isagu wuu akhrinayaa'."
+  },
+  {
+    "id": "ar_e3_16",
+    "lang": "ar",
+    "level": 3,
+    "question": "رَبِّ الْعَالَمِينَ micnaheedu waa maxay?",
+    "options": [
+      "Rabbiga caalamka oo dhan",
+      "Maalinta abaal-marinta",
+      "Rabbiga dadka"
+    ],
+    "answerIndex": 0,
+    "explanation": "رَبّ waa Rabbi / Barbaariye. الْعَالَمِينَ waa caalamka oo dhan. Al-Faatixa aayaddeeda labaad."
+  },
+  {
+    "id": "ar_e3_17",
+    "lang": "ar",
+    "level": 3,
+    "question": "Qoraalka Cabdiraxmaan: gurigiisu maxaa u dhow yahay?",
+    "options": [
+      "Dugsiga",
+      "Suuqa",
+      "Masjidka"
+    ],
+    "answerIndex": 2,
+    "explanation": "بَيْتُهُ قَرِيبٌ مِنَ الْمَسْجِدِ — gurigiisu wuxuu u dhow yahay masjidka."
+  }
+]

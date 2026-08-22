@@ -1,0 +1,654 @@
+[
+  {
+    "id": "quran_e1_01",
+    "lang": "quran",
+    "level": 1,
+    "question": "Qur'aanku waa hadalka yaa?",
+    "options": [
+      "Hadalka Alle",
+      "Hadalka macallinka",
+      "Hadalka Nebiga ﷺ"
+    ],
+    "answerIndex": 0,
+    "explanation": "Qur'aanku waa hadalka Alle. Nebi Muxammad ﷺ wuu gudbiyay, laakiin hadalku waa hadalka Alle."
+  },
+  {
+    "id": "quran_e1_02",
+    "lang": "quran",
+    "level": 1,
+    "question": "Yaa Qur'aanka u keenay Nebi Muxammad ﷺ?",
+    "options": [
+      "Macallinka dugsiga",
+      "Aabbihiis",
+      "Malaa'ig Jibriil"
+    ],
+    "answerIndex": 2,
+    "explanation": "Malaa'ig Jibriil ayaa Qur'aanka ka soo gudbiyay Alle una keenay Nebiga ﷺ."
+  },
+  {
+    "id": "quran_e1_03",
+    "lang": "quran",
+    "level": 1,
+    "question": "Maxaad marka hore samaysaa ka hor inta aanad Qur'aanka qaadan?",
+    "options": [
+      "Cunto cun",
+      "Gacmaha dhaq",
+      "Ordo"
+    ],
+    "answerIndex": 1,
+    "explanation": "Qur'aanku waa Kitaab sharaf leh — gacmo nadiif ah ayaan ku qaadnaa. Nebigu ﷺ wuxuu yiri: \"Daahirnimadu waa nus iimaanka\" (Muslim)."
+  },
+  {
+    "id": "quran_e1_04",
+    "lang": "quran",
+    "level": 1,
+    "question": "Kee baa ah hadalka aan ku bilaabno akhriska Qur'aanka?",
+    "options": [
+      "Aamiin",
+      "Alxamdulillaah",
+      "Acuudu billaahi minash-shayTaanir-rajiim"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ka hor akhriska waxaan Alle ka magangalnaa shayTaanka."
+  },
+  {
+    "id": "quran_e1_05",
+    "lang": "quran",
+    "level": 1,
+    "question": "Immisa aayadood ayay leedahay Al-Faatixah?",
+    "options": [
+      "Toddoba",
+      "Saddex",
+      "Labaatan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Al-Faatixah waa toddoba aayadood. Laba laba ayaan u qaadannay ilaa ay isku xirmeen."
+  },
+  {
+    "id": "quran_e1_06",
+    "lang": "quran",
+    "level": 1,
+    "question": "Kee baa ah aayadda ugu horreysa ee Al-Faatixah?",
+    "options": [
+      "Qul huwallaahu Axad",
+      "Bismillaahir-Raxmaanir-Raxiim",
+      "Innaa acTaynaakal-kawthar"
+    ],
+    "answerIndex": 1,
+    "explanation": "Al-Faatixah waxay ku bilaabmaa Bismillaahir-Raxmaanir-Raxiim."
+  },
+  {
+    "id": "quran_e1_07",
+    "lang": "quran",
+    "level": 1,
+    "question": "Kee baa marka hore la sameeyaa markaad barato?",
+    "options": [
+      "Cashar cusub — qaado aayado cusub",
+      "Ciyaar",
+      "Cashar shalay — ku celi wixii hore"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dhammaan dugsiyada xifdiga waxay ku bilaabaan celinta. Cashar cusub lama qaado ilaa kii shalay caddaado."
+  },
+  {
+    "id": "quran_e1_08",
+    "lang": "quran",
+    "level": 1,
+    "question": "Suuradda An-Naas immisa aayadood ayay leedahay?",
+    "options": [
+      "Lix",
+      "Saddex",
+      "Toban"
+    ],
+    "answerIndex": 0,
+    "explanation": "An-Naas waa lix aayadood, waana suuradda ugu dambeysa Qur'aanka."
+  },
+  {
+    "id": "quran_e1_09",
+    "lang": "quran",
+    "level": 1,
+    "question": "Kee baa ku xiga Rabbin-naas?",
+    "options": [
+      "Ilaahin-naas",
+      "Malikin-naas",
+      "Minal-jinnati wan-naas"
+    ],
+    "answerIndex": 1,
+    "explanation": "Kala horreynta waa Rabbi, kaddib Boqor (Malik), kaddibna Ilaah — sidii jaranjaro kor u socota."
+  },
+  {
+    "id": "quran_e1_10",
+    "lang": "quran",
+    "level": 1,
+    "question": "Al-Mucawwidhatayn — labada suuradood ee magangalka — waa kee?",
+    "options": [
+      "Al-Faatixah iyo Al-Ikhlaas",
+      "Al-Kawthar iyo An-Naas",
+      "Al-Falaq iyo An-Naas"
+    ],
+    "answerIndex": 2,
+    "explanation": "Al-Falaq iyo An-Naas. Nebigu ﷺ habeen kasta hurdada ka hor wuu akhrin jiray (Bukhaari)."
+  },
+  {
+    "id": "quran_e1_11",
+    "lang": "quran",
+    "level": 1,
+    "question": "Suuradda Al-Ikhlaas maxay noo sheegaysaa?",
+    "options": [
+      "In Alle uu Mid keliya yahay",
+      "Sheekada maroodiga",
+      "Qiimaha waqtiga"
+    ],
+    "answerIndex": 0,
+    "explanation": "Qul huwallaahu Axad — Alle waa Mid keliya, ma dhalin, mana dhalan."
+  },
+  {
+    "id": "quran_e1_12",
+    "lang": "quran",
+    "level": 1,
+    "question": "Suuradda ugu gaaban Qur'aanka waa tee?",
+    "options": [
+      "Al-Faatixah — toddoba aayadood",
+      "Al-Kawthar — saddex aayadood",
+      "An-Naas — lix aayadood"
+    ],
+    "answerIndex": 1,
+    "explanation": "Al-Kawthar waa saddex aayadood oo keliya — waa suuradda ugu gaaban Qur'aanka."
+  },
+  {
+    "id": "quran_e1_13",
+    "lang": "quran",
+    "level": 1,
+    "question": "Habka aan ku barano suuradda waa kee?",
+    "options": [
+      "Akhri qoraalka Laatiinka keliya",
+      "Hal mar dhageyso oo iska tag",
+      "Dhageyso qaariga, ka dibna ku celi"
+    ],
+    "answerIndex": 2,
+    "explanation": "Habku waa: dhageyso qaariga, ku celi saddex jeer, kaddibna aayadaha isku xir."
+  },
+  {
+    "id": "quran_e1_14",
+    "lang": "quran",
+    "level": 1,
+    "question": "Falaq macnaheedu waa maxay?",
+    "options": [
+      "Waaberiga — iftiinka dillaaca subaxdii",
+      "Habeenka madow",
+      "Dadka"
+    ],
+    "answerIndex": 0,
+    "explanation": "Falaq waa dillaacidda iftiinka subaxdii. Alle waa Rabbiga waaberiga."
+  },
+  {
+    "id": "quran_e2_01",
+    "lang": "quran",
+    "level": 2,
+    "question": "Fadhiga xifdiga, kee baa ugu horreeya?",
+    "options": [
+      "Sabaq — casharka cusub",
+      "Sabqi — celinta dhow",
+      "Manzil — celinta hore"
+    ],
+    "answerIndex": 1,
+    "explanation": "Kala horreynta waa Sabqi, kaddib Manzil, ugu dambeyntiina Sabaq. Celintu had iyo jeer way horreysaa, maskaxdu markay nadiif tahay."
+  },
+  {
+    "id": "quran_e2_02",
+    "lang": "quran",
+    "level": 2,
+    "question": "Ilmo 7 ilaa 10 jir ah immisa aayadood oo gaagaaban ayuu maalintii qaataa?",
+    "options": [
+      "Labaatan",
+      "Suurad dhan",
+      "Saddex ilaa shan"
+    ],
+    "answerIndex": 2,
+    "explanation": "Saddex ilaa shan aayadood oo gaagaaban, ama nus bog. In ka badan lama xidho, waana lumaa."
+  },
+  {
+    "id": "quran_e2_03",
+    "lang": "quran",
+    "level": 2,
+    "question": "Goorma ayaa la yiraahdaa aayaddu way adkaatay?",
+    "options": [
+      "Marka saddex jeer oo isku xigta si sax ah loo dhaho, qoraalka oo qarsoon",
+      "Marka hal mar la dhaho",
+      "Marka toban daqiiqo lagu celiyo"
+    ],
+    "answerIndex": 0,
+    "explanation": "Cabbirku waa saddex sax ah oo isku xigta, ee ma aha tiro go'an oo celcelis ah — sidaas ayay ugu habboonaataa ilmo kasta."
+  },
+  {
+    "id": "quran_e2_04",
+    "lang": "quran",
+    "level": 2,
+    "question": "Goorma ayaa cashar cusub la qaadaa?",
+    "options": [
+      "Maalin kasta, xaalad kasta",
+      "Marka casharkii shalay si qabow loo dhaho",
+      "Marka toddobaadku dhammaado"
+    ],
+    "answerIndex": 1,
+    "explanation": "Waa xeerka albaabka: cashar cusub lama furo ilaa kii shalay uu adkaado. Kani waa xeerka ugu badan ee dugsiyada xifdiga lagu celiyo."
+  },
+  {
+    "id": "quran_e2_05",
+    "lang": "quran",
+    "level": 2,
+    "question": "Immisa maalmood ayay giraangirta Manzilku leedahay?",
+    "options": [
+      "Saddex",
+      "Shan",
+      "Toddoba",
+      "Soddon"
+    ],
+    "answerIndex": 2,
+    "explanation": "Toddoba. Wax aan la celin toddobo maalmood gudahood ma jiraan — waa xeerka ugu weyn ee Manzilka."
+  },
+  {
+    "id": "quran_e2_06",
+    "lang": "quran",
+    "level": 2,
+    "question": "Immisa aayadood ayay leedahay Suuradda Al-Masad?",
+    "options": [
+      "Shan",
+      "Saddex",
+      "Toddoba"
+    ],
+    "answerIndex": 0,
+    "explanation": "Shan aayadood, oo laba cashar loo qaybiyay: saddex kaddib laba."
+  },
+  {
+    "id": "quran_e2_07",
+    "lang": "quran",
+    "level": 2,
+    "question": "An-Nasr, marka guushu timaaddo maxaa la sameeyaa?",
+    "options": [
+      "La faanaa",
+      "Waxba lama sameeyo",
+      "Tasbiix, mahadnaq, iyo dambi-dhaaf weydiisasho"
+    ],
+    "answerIndex": 2,
+    "explanation": "Fa sabbix bixamdi Rabbika wastaghfirh — guushu waa hadiyad Alle, sidaas darteen mahadnaq iyo istighfaar ayaa ku habboon."
+  },
+  {
+    "id": "quran_e2_08",
+    "lang": "quran",
+    "level": 2,
+    "question": "Al-Kaafiruun, labada aayadood ee gebi ahaanba isku mid ah waa kuwee?",
+    "options": [
+      "1 iyo 2",
+      "3 iyo 5",
+      "4 iyo 6"
+    ],
+    "answerIndex": 1,
+    "explanation": "Aayadaha 3 iyo 5 labaduba waa وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ. Waxa kala saara waa waxa mid kasta ku xiga — sidaas darteen la tiriyo."
+  },
+  {
+    "id": "quran_e2_09",
+    "lang": "quran",
+    "level": 2,
+    "question": "Al-Maacuun micnihiisu waa maxay?",
+    "options": [
+      "Salaad",
+      "Alaabta yar-yar ee la isku caawiyo",
+      "Cunto badan"
+    ],
+    "answerIndex": 1,
+    "explanation": "Waa waxyaabaha yaryar ee deriska: koob, biyo, xadhig. Diidmada waxa yar ayaa qalbiga muujisa."
+  },
+  {
+    "id": "quran_e2_10",
+    "lang": "quran",
+    "level": 2,
+    "question": "Suuradda Quraysh, labada nicmadood ee aayadda afraad xustay waa kuwee?",
+    "options": [
+      "Cunto iyo nabad",
+      "Maal iyo caafimaad",
+      "Roob iyo geel"
+    ],
+    "answerIndex": 0,
+    "explanation": "ATcamahum-min juucin (gaajo ka quudiyay) wa aamanahum-min khawf (cabsi ka aamin galiyay)."
+  },
+  {
+    "id": "quran_e2_11",
+    "lang": "quran",
+    "level": 2,
+    "question": "Suuradda Al-Fiil, yaa Kacbada ka ilaaliyay ciidankii Abraha?",
+    "options": [
+      "Ciidankii Makka",
+      "Cabdul-MuTTalib keligiis",
+      "Alle, oo shimbiro soo diray"
+    ],
+    "answerIndex": 2,
+    "explanation": "Dadka Makka wax awood ah ma lahayn. Alle ayaa shimbiro yaryar ku jebiyay ciidan maroodi wata."
+  },
+  {
+    "id": "quran_e2_12",
+    "lang": "quran",
+    "level": 2,
+    "question": "Al-Casr, afarta shay ee khasaaraha ka badbaadiya waa kuwee?",
+    "options": [
+      "Salaad, soon, zakaad, xaj",
+      "Rumayn, camal wanaagsan, runta isku dardaarmid, samirka isku dardaarmid",
+      "Cunto, nabad, hurdo, waqti"
+    ],
+    "answerIndex": 1,
+    "explanation": "Aayadda saddexaad afartaas ayay isla kala horreyntaas ku tirisay."
+  },
+  {
+    "id": "quran_e2_13",
+    "lang": "quran",
+    "level": 2,
+    "question": "Mutashaabihaat waa maxay?",
+    "options": [
+      "Aayado aad isugu eg, oo mid lagu beddelo mid kale",
+      "Aayado la illoobo",
+      "Suurado gaagaaban"
+    ],
+    "answerIndex": 0,
+    "explanation": "Khaladku ma aha illoobid — waa in aayad sax ah lagu beddelo aayad kale oo sax ah, wuuna sii xumaadaa marka xifdigu kordho."
+  },
+  {
+    "id": "quran_e2_14",
+    "lang": "quran",
+    "level": 2,
+    "question": "Sidee laba suurad isku loo xiraa?",
+    "options": [
+      "Toos baa loo raacsiiyaa",
+      "Hal mar oo keliya la wada akhriyo",
+      "Dhammaadka tii hore, Bismillaah, kaddib bilowga tan xigta — saddex jeer"
+    ],
+    "answerIndex": 2,
+    "explanation": "Bismillaahi waa albaabka u dhexeeya suuradaha (At-Tawbah mooyee). Isku-xirku waa xirfad gooni ah oo la tababbaro."
+  },
+  {
+    "id": "quran_e2_15",
+    "lang": "quran",
+    "level": 2,
+    "question": "Yaa yiraahda akhriskaagu waa sax?",
+    "options": [
+      "Macallinka, waalidka ama qofka ku dhageysta",
+      "Barnaamijka",
+      "Ilmuhu naftiisa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Barnaamijku wuu cabbiraa oo wuxuu dhihi karaa waan maqlay, laakiin caddaynta akhriska waxaa bixiya qof dhab ah — sidii habka talaqqi."
+  },
+  {
+    "id": "quran_e2_16",
+    "lang": "quran",
+    "level": 2,
+    "question": "Xadiiska Bukhaari iyo Muslim weriyeen, Qur'aanku maxaa lala mid dhigay?",
+    "options": [
+      "Biyaha",
+      "Geel xidhan oo baxsan kara haddii aan la ilaalin",
+      "Dahabka"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tacaahadul-Qur'aan... lahuwa ashaddu tafallutan minal-ibili fii cuqulihaa. Xadhiggu waa celinta."
+  },
+  {
+    "id": "quran_e3_01",
+    "lang": "quran",
+    "level": 3,
+    "question": "Makhraj micnihiisu waa maxay?",
+    "options": [
+      "Magaca xarafka",
+      "Meesha xarafku ka soo baxo",
+      "Dhererka codka"
+    ],
+    "answerIndex": 1,
+    "explanation": "Ibnul-Jazari wuxuu sheegay in aqoonta makhrajyada ay waajib tahay ka hor inta aan la akhrin."
+  },
+  {
+    "id": "quran_e3_02",
+    "lang": "quran",
+    "level": 3,
+    "question": "Ghunnahdu meeshee ka timaaddaa?",
+    "options": [
+      "Khayshuum — sanka",
+      "Lisaan — carrabka",
+      "Xalq — hunguriga"
+    ],
+    "answerIndex": 0,
+    "explanation": "Haddaad sanka qabato oo aad إِنَّ dhihi weydo, taasi waa caddaynta."
+  },
+  {
+    "id": "quran_e3_03",
+    "lang": "quran",
+    "level": 3,
+    "question": "Immisa xaraf ayaa hunguriga (xalq) ka soo baxa?",
+    "options": [
+      "Afar",
+      "Siddeed",
+      "Lix"
+    ],
+    "answerIndex": 2,
+    "explanation": "Lix: ء ه (hoos), ع ح (dhex), غ خ (kor). Soomaalidu badankood horeba way u leedahay."
+  },
+  {
+    "id": "quran_e3_04",
+    "lang": "quran",
+    "level": 3,
+    "question": "Al-Faatixah, erayga الضَّالِّينَ xarafkee culus ayuu ku jiraa?",
+    "options": [
+      "ض",
+      "د",
+      "ز"
+    ],
+    "answerIndex": 0,
+    "explanation": "Waa ض — carrabka dhinaca ayaa daanka sare taabanaya. دَالِّينَ waa eray kale oo gebi ahaanba duwan."
+  },
+  {
+    "id": "quran_e3_05",
+    "lang": "quran",
+    "level": 3,
+    "question": "Immisa xarakaad ayay ghunnahdu tahay?",
+    "options": [
+      "Hal",
+      "Lix",
+      "Laba"
+    ],
+    "answerIndex": 2,
+    "explanation": "Laba xarakaad — sida labada far ee la tiriyo. Gaabinta iyo dheerayntu labaduba waa khalad."
+  },
+  {
+    "id": "quran_e3_06",
+    "lang": "quran",
+    "level": 3,
+    "question": "Xeerkee ayaa ku dhaqma أَنْعَمْتَ (Al-Faatixah 7)?",
+    "options": [
+      "Ikhfaa",
+      "Izhaar",
+      "Idghaam",
+      "Iqlaab"
+    ],
+    "answerIndex": 1,
+    "explanation": "Nuunta aamusan waxaa ku xiga ع, oo ka mid ah lixda xaraf ee hunguriga — sidaas darteen nuuntu waa cad."
+  },
+  {
+    "id": "quran_e3_07",
+    "lang": "quran",
+    "level": 3,
+    "question": "Lixda xaraf ee Idghaamku waa kuwee?",
+    "options": [
+      "ص ض ط ظ ث ذ",
+      "ء ه ع ح غ خ",
+      "ي ر م ل و ن"
+    ],
+    "answerIndex": 2,
+    "explanation": "Waxaa lagu xusuustaa يرملون. Afar ghunnah leh (ي ن م و), laba ghunnah la'aan (ل، ر)."
+  },
+  {
+    "id": "quran_e3_08",
+    "lang": "quran",
+    "level": 3,
+    "question": "وَلَمْ يَكُن لَّهُ (Al-Ikhlaas 4) ma ghunnah bay leedahay?",
+    "options": [
+      "Maya — idghaamka ل iyo ر ghunnah ma leh",
+      "Haa, laba xarakaad",
+      "Haa, lix xarakaad"
+    ],
+    "answerIndex": 0,
+    "explanation": "Idghaamka ل iyo ر waa mid ghunnah la'aan; sanka wax ma marayo."
+  },
+  {
+    "id": "quran_e3_09",
+    "lang": "quran",
+    "level": 3,
+    "question": "Immisa xaraf ayaa Iqlaabka keena?",
+    "options": [
+      "Lix",
+      "Shan iyo toban",
+      "Mid — ب"
+    ],
+    "answerIndex": 2,
+    "explanation": "ب oo keliya. Nuuntu waxay noqotaa م, Mushafkana waxaa lagu calaamadiyaa mim yar oo nuunta kor looga qoray."
+  },
+  {
+    "id": "quran_e3_10",
+    "lang": "quran",
+    "level": 3,
+    "question": "مِن شَرِّ (Al-Falaq 2) xeerkee ayaa ku dhaqma?",
+    "options": [
+      "Ikhfaa — nuunta waa qarsoon",
+      "Izhaar — nuunta waa cad",
+      "Idghaam — nuuntu way baabba'day"
+    ],
+    "answerIndex": 0,
+    "explanation": "ش waa mid ka mid ah shan iyo tobanka xaraf ee Ikhfaa. Carrabku daanka ma taabanayo, codkuna sanka wuu maraa."
+  },
+  {
+    "id": "quran_e3_11",
+    "lang": "quran",
+    "level": 3,
+    "question": "Shanta xaraf ee qalqalahda waa kuwee?",
+    "options": [
+      "ي ر م ل و ن",
+      "ق ط ب ج د",
+      "ء ه ع ح غ خ"
+    ],
+    "answerIndex": 1,
+    "explanation": "Waxaa lagu xusuustaa قُطْبُ جَدٍّ. Tusaale: لَمْ يَلِدْ، أَلَمْ يَجْعَلْ، الْأَبْتَرُ."
+  },
+  {
+    "id": "quran_e3_12",
+    "lang": "quran",
+    "level": 3,
+    "question": "Immisa xarakaad ayuu madd laazim yahay (tusaale: الضَّالِّينَ)?",
+    "options": [
+      "Laba",
+      "Afar",
+      "Lix"
+    ],
+    "answerIndex": 2,
+    "explanation": "Lix, mar walba — madd laazim doorasho ma leh."
+  },
+  {
+    "id": "quran_e3_13",
+    "lang": "quran",
+    "level": 3,
+    "question": "جَاءَ (An-Nasr 1) waa maddkee?",
+    "options": [
+      "Muttasil — madd iyo hamza isla eray",
+      "Munfasil — laba eray",
+      "Dabiici"
+    ],
+    "answerIndex": 0,
+    "explanation": "Muttasil macnihiisu waa isku dhegan: afar ilaa shan xarakaad. Munfasil waa إِنَّا أَعْطَيْنَاكَ oo kale."
+  },
+  {
+    "id": "quran_e3_14",
+    "lang": "quran",
+    "level": 3,
+    "question": "Calaamadda لا Mushafka ku qoran maxay ku tusinaysaa?",
+    "options": [
+      "Joogso, waa waajib",
+      "Ha joogsan",
+      "Neef qaado"
+    ],
+    "answerIndex": 1,
+    "explanation": "Waxay ka digaysaa meel joogsigu macnaha ka beddelo. Haddii neeftu kaa dhammaato, dib uga bilow eray ka horreeya."
+  },
+  {
+    "id": "quran_e3_15",
+    "lang": "quran",
+    "level": 3,
+    "question": "Xadiiska Qudsiga ah ee Muslim weriyay, aayaddee ayaa ah badhka u dhexeeya Alle iyo addoonka?",
+    "options": [
+      "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "مَالِكِ يَوْمِ الدِّينِ",
+      "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ"
+    ],
+    "answerIndex": 2,
+    "explanation": "Alle wuxuu yiraahdaa: tanu waa aniga iyo addoonkayga dhexdayada, addoonkayguna wuxuu heli doonaa wuxuu weydiisto."
+  },
+  {
+    "id": "quran_e3_16",
+    "lang": "quran",
+    "level": 3,
+    "question": "As-Samad micnihiisu waa maxay?",
+    "options": [
+      "Kan wax walba u baahan yahay, isaguse aan waxba u baahnayn",
+      "Kan xoogga badan",
+      "Kan wax arka"
+    ],
+    "answerIndex": 0,
+    "explanation": "Waa magaca ku sharraxaya sababta magangalku Alle uga bilaabmayo: waxaan u baahannahay Kan aan waxba u baahnayn."
+  },
+  {
+    "id": "quran_e3_17",
+    "lang": "quran",
+    "level": 3,
+    "question": "Waa maxay farqiga u dhexeeya Al-Falaq iyo An-Naas?",
+    "options": [
+      "Mid waa dheer, midna waa gaaban",
+      "Al-Falaq waa sharka dibadda, An-Naas waa sharka gudaha",
+      "Farqi ma jiro"
+    ],
+    "answerIndex": 1,
+    "explanation": "Al-Falaq: habeen, sixir, xaasid — dibadda. An-Naas: waswaaska laabta lagu tuuro — gudaha."
+  },
+  {
+    "id": "quran_e3_18",
+    "lang": "quran",
+    "level": 3,
+    "question": "Erayga isku xidha Al-Fiil iyo Quraysh waa kee?",
+    "options": [
+      "أَلَمْ تَرَ",
+      "بِسْمِ اللَّهِ",
+      "فَلْيَعْبُدُوا — haddaba ha caabudeen"
+    ],
+    "answerIndex": 2,
+    "explanation": "Al-Fiil waxay sheegtay ficilka Alle; Quraysh waxay sheegaysaa waxa ka dambeeya: haddaba Rabbiga Beydkaas caabuda."
+  },
+  {
+    "id": "quran_e3_19",
+    "lang": "quran",
+    "level": 3,
+    "question": "Saddexda su'aalood ee tadabburka waa kuwee?",
+    "options": [
+      "Maxay ka hadlaysaa? Maxay iga rabtaa? Maxaan maanta ka beddelayaa?",
+      "Yaa akhriyay? Goorma? Xaggee?",
+      "Immisa aayadood? Immisa eray? Immisa xaraf?"
+    ],
+    "answerIndex": 0,
+    "explanation": "Alle wuxuu yiri: أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ (Muxammad 24) — xifdi macne la'aan ah waa mid aan dhammaystirnayn."
+  },
+  {
+    "id": "quran_e3_20",
+    "lang": "quran",
+    "level": 3,
+    "question": "Al-Casr, maxay labada shay ee u dambeeya isku mid ku yihiin?",
+    "options": [
+      "Labaduba waa salaad",
+      "Labaduba waxay u baahan yihiin dad kale — isku dardaarmid",
+      "Labaduba waa maal"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tawaasaw bil-xaqq iyo tawaasaw bis-sabr: keligaa lama dhammaystiro — bulsho baa loo baahan yahay."
+  }
+]
