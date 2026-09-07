@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="so">
 <head>
   <!--
     If you are serving your web app in a path other than the root, change the
@@ -8,9 +8,6 @@
     The path provided below has to start and end with a slash "/" in order for
     it to work correctly.
 
-    For more details:
-    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
-
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
@@ -18,7 +15,10 @@
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Koritaan — barashada carruurta Soomaaliyeed: Soomaali, Ingiriisi, Carabi, Diin iyo Qur'aan.">
+  <meta name="theme-color" content="#247976">
+  <meta name="color-scheme" content="light dark">
 
   <!-- iOS meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
@@ -31,26 +31,78 @@
 
   <title>Koritaan</title>
   <link rel="manifest" href="manifest.json">
+
+  <!--
+    What a visitor sees while the app itself is still downloading. Without it
+    the page is plain white for as long as the bundle takes to arrive, which
+    on the connections this app is used over is long enough to give up on.
+    flutter_bootstrap.js fades it out once the app has drawn.
+  -->
+  <style>
+    :root {
+      --splash-bg: #FDF8EE;
+      --splash-ink: #292521;
+      --splash-note: #6B645C;
+      --splash-ring: #247976;
+      --splash-track: #E7DCCF;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --splash-bg: #1C1916;
+        --splash-ink: #F5F1EA;
+        --splash-note: #A39B90;
+        --splash-ring: #4FB3AE;
+        --splash-track: #2F2A25;
+      }
+    }
+    html, body { height: 100%; margin: 0; }
+    body { background: var(--splash-bg); }
+    #splash {
+      position: fixed;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      background: var(--splash-bg);
+      color: var(--splash-ink);
+      font-family: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      transition: opacity 0.4s ease;
+      z-index: 10;
+    }
+    #splash.splash-hide { opacity: 0; pointer-events: none; }
+    #splash img {
+      width: 96px;
+      height: 96px;
+      border-radius: 24px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
+    }
+    #splash .splash-title { font-size: 26px; font-weight: 800; letter-spacing: 0.3px; }
+    #splash .splash-ring {
+      width: 30px;
+      height: 30px;
+      margin-top: 6px;
+      border: 3px solid var(--splash-track);
+      border-top-color: var(--splash-ring);
+      border-radius: 50%;
+      animation: splash-spin 0.9s linear infinite;
+    }
+    #splash .splash-note { font-size: 14px; color: var(--splash-note); }
+    @keyframes splash-spin { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      #splash .splash-ring { animation: none; }
+      #splash { transition: none; }
+    }
+  </style>
 </head>
 <body>
-  <script src='https://cdn.jsdelivr.net/npm/pdfjs-dist@4.6.82/build/pdf.min.mjs' type='module'></script>
-  <script type='module'>
-  var { pdfjsLib } = globalThis;
-  pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@4.6.82/build/pdf.worker.mjs';
-
-  var pdfRenderOptions = {
-    cMapUrl: 'https://cdn.jsdelivr.net/npm/pdfjs-dist@4.6.82/cmaps/',
-    cMapPacked: true,
-  }
-  </script>
-  <!--
-    You can customize the "flutter_bootstrap.js" script.
-    This is useful to provide a custom configuration to the Flutter loader
-    or to give the user feedback during the initialization process.
-
-    For more details:
-    * https://docs.flutter.dev/platform-integration/web/initialization
-  -->
+  <div id="splash" role="status" aria-live="polite">
+    <img src="icons/Icon-192.png" alt="" width="96" height="96">
+    <div class="splash-title">Koritaan</div>
+    <div class="splash-ring"></div>
+    <div class="splash-note">Waa la soo dejinayaa…</div>
+  </div>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>

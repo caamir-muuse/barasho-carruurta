@@ -35,8 +35,17 @@ if (!window._flutter) {
 }
 _flutter.buildConfig = {"engineRevision":"c416acfeb8126e097f758c664aaa3da929e27da0","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
 
+
+// Keeps the splash in index.html up until the app has actually started, then
+// fades it out. Left to the default loader the splash would never go away,
+// and without a splash the page is blank for the whole download.
 _flutter.loader.load({
-  serviceWorkerSettings: {
-    serviceWorkerVersion: "2136612718" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */
+  onEntrypointLoaded: async function (engineInitializer) {
+    const appRunner = await engineInitializer.initializeEngine();
+    await appRunner.runApp();
+    const splash = document.getElementById('splash');
+    if (!splash) return;
+    splash.classList.add('splash-hide');
+    setTimeout(function () { splash.remove(); }, 450);
   }
 });

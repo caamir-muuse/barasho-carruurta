@@ -3,9 +3,10 @@
     "short_name": "Koritaan",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#E0F2FE",
-    "theme_color": "#4F46E5",
-    "description": "Barashada carruurta Soomaaliyeed — Soomaali, Ingiriisi, Carabi, Diin iyo Qur'aan.",
+    "background_color": "#FDF8EE",
+    "theme_color": "#247976",
+    "description": "Koritaan — barashada carruurta Soomaaliyeed: Soomaali, Ingiriisi, Carabi, Diin iyo Qur'aan.",
+    "lang": "so",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
