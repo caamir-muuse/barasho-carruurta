@@ -227,11 +227,11 @@
     "question": "Erayada su'aal iyo gu' — maxay calaamadda (') tahay?",
     "options": [
       "Waa shaqal dheer",
-      "Waa hakadka, shibbanaha 22-aad",
+      "Waa hamse, shibbanaha 22-aad",
       "Waa calaamad aan cod lahayn"
     ],
     "answerIndex": 1,
-    "explanation": "Hakadku waa shibbane dhab ah oo neefta wax yar joojiya. Haddii aad ka tagto, erayada su'aal iyo gu' way jabaan."
+    "explanation": "Hamse waa shibbane dhab ah oo neefta wax yar joojiya. Haddii aad ka tagto, erayada su'aal iyo gu' way jabaan."
   },
   {
     "id": "so_e1_19",
@@ -604,10 +604,10 @@
       "awr",
       "nirig",
       "qaalin",
-      "irman"
+      "irmaan"
     ],
     "answerIndex": 3,
-    "explanation": "Irman waa hal caano leh. Awr waa geela rarka qaada, nirigna waa ilmaha geela."
+    "explanation": "Irmaan waa hal caano leh. Awr waa geela rarka qaada, nirigna waa ilmaha geela."
   },
   {
     "id": "so_e3_12",
@@ -616,7 +616,7 @@
     "question": "Immisa wabi oo waaweyn ayaa Soomaaliya leedahay, magacyadooduna waa kuwee?",
     "options": [
       "Laba: Shabeelle iyo Jubba",
-      "Afar: Shabeelle, Jubba, Nugaal iyo Haud",
+      "Afar: Shabeelle, Jubba, Nugaal iyo Hawd",
       "Mid: Shabeelle",
       "Saddex: Jubba, Shabeelle iyo Doollo"
     ],
