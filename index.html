@@ -103,6 +103,56 @@
     <div class="splash-ring"></div>
     <div class="splash-note">Waa la soo dejinayaa…</div>
   </div>
+  <!--
+    Keeps the app, and the voices it plays, on the device, so it opens and
+    plays with no internet after the first visit (koritaan_sw.js). Registered
+    for the base href, the folder the app is published under, once the page
+    has loaded, so it never slows the first start. Not Flutter's own
+    flutter_service_worker.js, a stub that unregisters itself.
+  -->
+  <script>
+    (function () {
+      if (!('serviceWorker' in navigator)) return;
+      var workers = navigator.serviceWorker;
+      // Room to list everything the first start fetched.
+      try { performance.setResourceTimingBufferSize(2000); } catch (e) {}
+
+      // On the first visit the engine, fonts and files come before the
+      // worker is in charge: the page hands over what it fetched, and the
+      // worker keeps what it would have kept.
+      function handOver() {
+        var worker = workers.controller;
+        if (!worker) return;
+        var urls = [];
+        try {
+          performance.getEntriesByType('resource').forEach(function (entry) {
+            urls.push(entry.name);
+          });
+        } catch (e) {}
+        worker.postMessage({ type: 'koritaan-loaded', urls: urls });
+      }
+      workers.addEventListener('controllerchange', handOver);
+
+      window.addEventListener('load', function () {
+        workers.register('koritaan_sw.js', {
+          scope: document.baseURI,
+          updateViaCache: 'none'
+        }).then(function (registration) {
+          // An app kept open on a home screen is not reloaded for days:
+          // it looks for a new build when it comes back to the front.
+          var looked = Date.now();
+          document.addEventListener('visibilitychange', function () {
+            if (document.visibilityState !== 'visible') return;
+            if (Date.now() - looked < 60 * 60 * 1000) return;
+            looked = Date.now();
+            registration.update().catch(function () {});
+          });
+        }).catch(function () {});
+        // Once the app has started (the engine comes after the page loads).
+        setTimeout(handOver, 15000);
+      });
+    })();
+  </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>

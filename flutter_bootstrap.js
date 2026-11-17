@@ -44,6 +44,11 @@ _flutter.buildConfig = {"engineRevision":"692136cb6582dbfc5af3fb33c2515a069f2f66
 // Keeps the splash in index.html up until the app has actually started, then
 // fades it out. Left to the default loader the splash would never go away,
 // and without a splash the page is blank for the whole download.
+//
+// Never pass serviceWorkerSettings here: Flutter would register its own
+// flutter_service_worker.js, a stub that unregisters itself, in the place of
+// koritaan_sw.js (registered in index.html), and the app would stop working
+// offline.
 _flutter.loader.load({
   onEntrypointLoaded: async function (engineInitializer) {
     const appRunner = await engineInitializer.initializeEngine();
