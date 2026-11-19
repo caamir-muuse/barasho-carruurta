@@ -28,7 +28,7 @@
 // tools/deploy_web.sh puts the build's fingerprint here. Left as it is (a
 // build served some other way), the app is fetched from the network first
 // and the copy kept is used only with no connection.
-const BUILD = '61882d1ee496';
+const BUILD = '3f7b5d943c5a';
 const STAMPED = BUILD.indexOf('__') !== 0;
 
 const SCOPE = self.registration.scope;
